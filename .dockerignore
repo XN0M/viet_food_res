@@ -1,0 +1,12 @@
+node_modules
+.next
+.git
+.env
+.env.*
+.local
+backups
+test-results
+playwright-report
+reference-google.html
+tmp
+output

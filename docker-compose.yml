@@ -1,0 +1,49 @@
+services:
+  db:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_USER: vietfood
+      POSTGRES_PASSWORD: local_only_password
+      POSTGRES_DB: vietfood
+    ports: ["127.0.0.1:5438:5432"]
+    volumes: ["pgdata:/var/lib/postgresql/data"]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U vietfood"]
+      interval: 5s
+      retries: 10
+  mail:
+    image: axllent/mailpit:latest
+    ports: ["127.0.0.1:1028:1025", "127.0.0.1:8028:8025"]
+  migrate:
+    build: .
+    profiles: ["app"]
+    command: ["sh", "-c", "npm run db:migrate && npm run db:init"]
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://vietfood:local_only_password@db:5432/vietfood?schema=public
+    depends_on:
+      db: {condition: service_healthy}
+  web:
+    build: .
+    profiles: ["app"]
+    ports: ["127.0.0.1:3000:3000"]
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://vietfood:local_only_password@db:5432/vietfood?schema=public
+      SMTP_HOST: mail
+      SMTP_PORT: 1025
+    depends_on:
+      migrate: {condition: service_completed_successfully}
+  worker:
+    build: .
+    profiles: ["app"]
+    command: ["npm", "run", "worker"]
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://vietfood:local_only_password@db:5432/vietfood?schema=public
+      SMTP_HOST: mail
+      SMTP_PORT: 1025
+    depends_on:
+      migrate: {condition: service_completed_successfully}
+volumes:
+  pgdata:

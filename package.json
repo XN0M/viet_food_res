@@ -1,0 +1,57 @@
+{
+  "name": "vietfood-dolny-stal",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "prisma generate && next build",
+    "start": "next start --hostname 0.0.0.0",
+    "worker": "tsx src/worker.ts",
+    "db:generate": "prisma generate",
+    "db:migrate": "prisma migrate deploy",
+    "db:seed": "tsx scripts/seed.ts",
+    "user:create": "tsx scripts/create-user.ts",
+    "menu:import": "tsx scripts/import-menu.ts",
+    "menu:images:import": "tsx scripts/import-menu-images.ts",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "typecheck": "tsc --noEmit",
+    "db:init": "tsx scripts/init.ts",
+    "demo:bootstrap": "tsx scripts/bootstrap-demo.ts",
+    "data:purge": "tsx scripts/purge.ts",
+    "local:db": "node scripts/local-db.mjs",
+    "local:mail": "node scripts/dev-mail.mjs",
+    "test:db": "node scripts/test-db.mjs"
+  },
+  "dependencies": {
+    "@prisma/client": "6.19.0",
+    "date-fns": "^4.1.0",
+    "date-fns-tz": "^3.2.0",
+    "dotenv": "^16.4.7",
+    "lucide-react": "^0.468.0",
+    "next": "16.4.2",
+    "nodemailer": "^10.1.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "@tailwindcss/postcss": "^4.1.0",
+    "@types/node": "^22.10.0",
+    "@types/nodemailer": "^7.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "cheerio": "^1.2.0",
+    "embedded-postgres": "^18.4.0-beta.17",
+    "prisma": "6.19.0",
+    "tailwindcss": "^4.1.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0",
+    "vitest": "^5.0.3"
+  },
+  "overrides": {
+    "effect": "3.20.0",
+    "deepmerge-ts": "8.0.0"
+  }
+}

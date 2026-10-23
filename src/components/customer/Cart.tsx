@@ -1,0 +1,12 @@
+'use client';
+import Link from 'next/link';
+import {Minus,Plus,ShoppingBag,Trash2,ArrowUpRight} from 'lucide-react';
+import {useShop} from './ShopContext';
+import {money} from '@/lib/domain';
+import {unitPrice} from '@/lib/menu-presentation';
+import {DishPhoto} from './DishPhoto';
+export function Cart({sidebar=false}:{sidebar?:boolean}){
+ const {data,cart,count,total,save,setCartOpen,menuHref}=useShop();
+ return <div className={`vf-cart-content ${sidebar?'vf-cart-sidebar':''}`}><div className="vf-cart-heading"><span className="vf-eyebrow">VÁŠ VÝBER</span><h2>Váš košík <span>{count}</span></h2></div>{cart.length===0?<div className="vf-cart-empty"><ShoppingBag size={30} strokeWidth={1}/><p>Niečo dobré na začiatok?</p><small>Vyberte si jedlo, na ktoré máte chuť.</small>{!sidebar&&<Link className="vf-button vf-outline" href={menuHref} onClick={()=>setCartOpen(false)}>Pozrieť menu</Link>}</div>:<><div className="vf-cart-lines">{cart.map((line,index)=>{const item=data?.items.find(i=>i.id===line.id);return <div className="vf-cart-line" key={`${line.id}-${index}`}>{item&&<DishPhoto item={item} className="vf-cart-photo"/>}<div><h3>{item?.name??'Načítavame jedlo…'}</h3>{item&&<small>{item.options.map(g=>g.choices.find(c=>c.id===line.choices[g.id])?.name).filter(Boolean).join(', ')}</small>}{item&&!item.available&&<small className="vf-unavailable">Vypredané · odstráňte z košíka</small>}</div><button className="vf-icon" aria-label={`Odstrániť ${item?.name??'položku'}`} onClick={()=>save(cart.filter((_,i)=>i!==index))}><Trash2 size={16}/></button><div className="vf-quantity"><button aria-label={`Znížiť množstvo ${item?.name??''}`} onClick={()=>save(cart.flatMap((l,i)=>i!==index?[l]:l.quantity>1?[{...l,quantity:l.quantity-1}]:[]))}><Minus size={14}/></button><span>{line.quantity}</span><button aria-label={`Zvýšiť množstvo ${item?.name??''}`} disabled={line.quantity>=30||!item?.available} onClick={()=>save(cart.map((l,i)=>i===index?{...l,quantity:Math.min(30,l.quantity+1)}:l))}><Plus size={14}/></button></div><strong>{item?money(unitPrice(item,line.choices)*line.quantity):'—'}</strong></div>;})}</div><div className="vf-cart-total"><div><span>Jedlá spolu</span><strong>{money(total)}</strong></div><p>Balenie a dopravu uvidíte pred odoslaním objednávky.</p><Link className="vf-button" href="/objednavka" onClick={()=>setCartOpen(false)}>Pokračovať k objednávke <ArrowUpRight size={17}/></Link>{!data?.open&&<small>Požiadavku odošlete počas hodín prijímania objednávok.</small>}</div></>}</div>;
+}
+

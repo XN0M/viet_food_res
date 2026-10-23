@@ -1,0 +1,147 @@
+generator client {
+  provider = "prisma-client-js"
+}
+datasource db {
+  provider = "postgresql"
+  url = env("DATABASE_URL")
+}
+model Settings {
+  id Int @id @default(1)
+  restaurantName String @default("VietFood Dolný Štál")
+  address String @default("Pri jazere 1, 930 10 Dolný Štál")
+  phone String @default("")
+  latitude Float?
+  longitude Float?
+  paused Boolean @default(false)
+  openingHour Int @default(8)
+  closingHour Int @default(18)
+  closedDays Int[] @default([0])
+  packagingMode String @default("UNCONFIRMED")
+  packagingCents Int @default(0)
+  packagingApplies String @default("BOTH")
+  orderEmail String @default("orders@vietfood.test")
+  managerEmail String @default("manager@vietfood.test")
+  contentApproved Boolean @default(false)
+  businessInfo String @default("")
+  termsText String @default("")
+  privacyText String @default("")
+  retentionDays Int @default(90)
+  updatedAt DateTime @updatedAt
+}
+model MenuItem {
+  id String @id
+  name String
+  description String
+  category String
+  priceCents Int
+  portion String
+  allergens String[]
+  image String @default("/food-bowl.svg")
+  options Json @default("[]")
+  active Boolean @default(true)
+  available Boolean @default(true)
+  sort Int @default(0)
+}
+model MenuImage {
+  id String @id
+  branchKey String
+  sourceUrl String @unique
+  localPath String
+  sha256 String
+  width Int
+  height Int
+  bytes Int
+  menuItemIds String[]
+  sourceItems Json
+  reviewPending Boolean @default(true)
+  importedAt DateTime @default(now())
+  @@index([branchKey])
+}
+model User {
+  id String @id @default(cuid())
+  email String @unique
+  name String
+  passwordHash String
+  role String @default("STAFF")
+  active Boolean @default(true)
+  sessions Session[]
+  createdAt DateTime @default(now())
+}
+model Session {
+  hash String @id
+  userId String
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  expiresAt DateTime
+}
+model Order {
+  id String @id @default(cuid())
+  number Int @unique @default(autoincrement())
+  tokenHash String @unique
+  idempotencyKey String @unique
+  requestHash String
+  customerName String
+  phone String
+  address Json?
+  note String
+  fulfillment String
+  paymentMethod String
+  paid Boolean @default(false)
+  pickupAt DateTime?
+  eta DateTime?
+  status String @default("PENDING")
+  subtotalCents Int
+  packagingCents Int
+  deliveryCents Int?
+  distanceKm Float?
+  quoteReason String?
+  feeAgreed Boolean @default(false)
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  version Int @default(0)
+  items Json
+  events OrderEvent[]
+  messages Outbox[]
+  @@index([status, expiresAt])
+  @@index([createdAt])
+}
+model OrderEvent {
+  id String @id @default(cuid())
+  orderId String
+  order Order @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  action String
+  actor String
+  detail String
+  createdAt DateTime @default(now())
+}
+model Outbox {
+  id String @id @default(cuid())
+  key String @unique
+  orderId String
+  order Order @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  kind String
+  status String @default("PENDING")
+  attempts Int @default(0)
+  nextAttemptAt DateTime @default(now())
+  lockedUntil DateTime?
+  lastError String?
+  createdAt DateTime @default(now())
+  sentAt DateTime?
+  @@index([status, nextAttemptAt])
+}
+model Audit {
+  id String @id @default(cuid())
+  actor String
+  action String
+  detail String
+  createdAt DateTime @default(now())
+}
+model RateLimit {
+  key String @id
+  count Int
+  resetAt DateTime
+}
+model WorkerHealth {
+  id Int @id @default(1)
+  lastSeen DateTime
+}

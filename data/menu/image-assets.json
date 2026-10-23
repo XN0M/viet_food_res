@@ -1,0 +1,2329 @@
+{
+  "branchKey": "br_64a07613",
+  "address": "Pri jazere 1, 930 10 Dolný Štál",
+  "createdAt": "2026-10-12T12:02:13.212Z",
+  "assets": [
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f4c6ec5d5e1acbbc719d8",
+      "localPath": "/menu/dolny-stal/704adc7034e893e004c489b8.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 25040,
+      "sha256": "3b4490878021b0122eb30f5c53636c550e5229bae688e29b8fed41f4834345c2",
+      "sourceSha256": "b45cebbad815c1d2dba19c4341fa9d41da5f8304818facadb3a6a121e4e77d39"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f4c71c5d5e1acbbc719d9",
+      "localPath": "/menu/dolny-stal/cfd36049e855a5097016eac3.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 25040,
+      "sha256": "3b4490878021b0122eb30f5c53636c550e5229bae688e29b8fed41f4834345c2",
+      "sourceSha256": "b45cebbad815c1d2dba19c4341fa9d41da5f8304818facadb3a6a121e4e77d39"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f4c75c5d5e1acbbc719da",
+      "localPath": "/menu/dolny-stal/904a34a2d3fa75ec97fa0f4e.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 25040,
+      "sha256": "3b4490878021b0122eb30f5c53636c550e5229bae688e29b8fed41f4834345c2",
+      "sourceSha256": "b45cebbad815c1d2dba19c4341fa9d41da5f8304818facadb3a6a121e4e77d39"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f4c7ec5d5e1acbbc719e0",
+      "localPath": "/menu/dolny-stal/34a5a22e2961594b88014e50.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 25040,
+      "sha256": "3b4490878021b0122eb30f5c53636c550e5229bae688e29b8fed41f4834345c2",
+      "sourceSha256": "b45cebbad815c1d2dba19c4341fa9d41da5f8304818facadb3a6a121e4e77d39"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f4c81c5d5e1acbbc71a02",
+      "localPath": "/menu/dolny-stal/d6389688c4c080655134879c.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 25040,
+      "sha256": "3b4490878021b0122eb30f5c53636c550e5229bae688e29b8fed41f4834345c2",
+      "sourceSha256": "b45cebbad815c1d2dba19c4341fa9d41da5f8304818facadb3a6a121e4e77d39"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f4c84036cbdf8f0b74280",
+      "localPath": "/menu/dolny-stal/e01bc44a89f87fe8842f5806.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 25040,
+      "sha256": "3b4490878021b0122eb30f5c53636c550e5229bae688e29b8fed41f4834345c2",
+      "sourceSha256": "b45cebbad815c1d2dba19c4341fa9d41da5f8304818facadb3a6a121e4e77d39"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f4c86036cbdf8f0b74281",
+      "localPath": "/menu/dolny-stal/6f810ff5e4c886b62b7c0c6b.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 25040,
+      "sha256": "3b4490878021b0122eb30f5c53636c550e5229bae688e29b8fed41f4834345c2",
+      "sourceSha256": "b45cebbad815c1d2dba19c4341fa9d41da5f8304818facadb3a6a121e4e77d39"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f51b30f23d310be11e32e",
+      "localPath": "/menu/dolny-stal/16435238cb17d2fb3ba0a349.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 38574,
+      "sha256": "8a5201bf191935ad5c595a7d3dbcd3dda3495fc1ca91f0193e3284f8ca4f4c96",
+      "sourceSha256": "25e9c8d563d678df06cb992fc8cdb9294e094a5c7ea88205f6dcca35288dc892"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f51b30f23d310be11e32f",
+      "localPath": "/menu/dolny-stal/7151f40753578a6df4942710.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 38744,
+      "sha256": "4613f19afc6001a880417e6db5b77e81aab8a6e140ae1a22c610406d5864690f",
+      "sourceSha256": "740643811108bcb3d75a3c85c054eb4758505c8ef1ac8b226682bcd1587948d8"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f51b30f23d310be11e330",
+      "localPath": "/menu/dolny-stal/64f49f72534044c70c5b300d.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 38808,
+      "sha256": "7c6bb51ddec98959dc212f57aea548f9b34941f108a925b2d111a6a3b2161a05",
+      "sourceSha256": "ca39dd5b022f90d680738e1745dd3ae00cf318457493333be2446bb22367dbba"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f51b30f23d310be11e331",
+      "localPath": "/menu/dolny-stal/da2441febc0a9f1848e3e99c.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 38904,
+      "sha256": "66ca8340b9c1eb9c44aab96226ed2a469dcf8e9e70198e47248aedcb21aac8bf",
+      "sourceSha256": "cca2ffcaf6c4eefbdcf18733ccf26add94d6131aeb3596ff1e32c5bd46d634d2"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f51b30f23d310be11e332",
+      "localPath": "/menu/dolny-stal/9c96fd0ac1554194d43e5297.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 38732,
+      "sha256": "d2a36a054b1fc3ac9c0696704b4b0903f867295ded2a125331adf2f76c34081f",
+      "sourceSha256": "5fd64a3f619ee73fb05b44ab83020463cd67b0854644ec63bab3a079c1a81a80"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f53013f8fcc0ffc18b24d",
+      "localPath": "/menu/dolny-stal/c6a7b61765cdb3ef903c9013.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 21750,
+      "sha256": "f05c861a6931d7f86bc4ca84ab0cee8940ac01ef440293a540f0a2b1399be290",
+      "sourceSha256": "12cc09d8166bea14dfca92211c5749883b41cdf07ffa43c178c6d05edf2e00a0"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f53013f8fcc0ffc18b24e",
+      "localPath": "/menu/dolny-stal/5bad6449207ba7268a8bdf96.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 19476,
+      "sha256": "777a4e5625b8b3d723e9c496175868f652e48f6614e71989af922c8c72b19f9c",
+      "sourceSha256": "06c24cfc5af107ed7d7305de515939c1b46ce6051136bd31efcbd5be876038e6"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f53013f8fcc0ffc18b24f",
+      "localPath": "/menu/dolny-stal/70ea274efcb8ba8c9065bd79.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 20748,
+      "sha256": "ead3ef95bcdeecbe9e83d7192d8b6149bc65f297717ff83f01d5151df4b87c33",
+      "sourceSha256": "7c7d1daaadf4f92c046ca0b8d0a85a3ae0cfd0fe44cc9fb75513663414e3e911"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f53013f8fcc0ffc18b250",
+      "localPath": "/menu/dolny-stal/55b3b990dd21918ec26d42fb.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 32982,
+      "sha256": "457e2ea451877c4ae98aefccc9e8435141a0a00aad8d36b42cbd7aed50b58c37",
+      "sourceSha256": "78745887725c6bfa6d5976c9bd28d803bc64a522dd078b64d15f84ba718420f3"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f53e10f23d310be11e34c",
+      "localPath": "/menu/dolny-stal/7d21e24b4abca1c31b80de29.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 63960,
+      "sha256": "40bb816d6b10f06a4dabf4ff16235c32cf6c951121709acc1aa98d59c79ca7c6",
+      "sourceSha256": "3e543bb27feace85ee5ce483427b7950d314bbcc3bb58df46a26a21f2ad0bc6b"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f53e10f23d310be11e34d",
+      "localPath": "/menu/dolny-stal/b9fafb2181787a9e1fdc8999.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 73484,
+      "sha256": "eabc79e2c48845bcf3ea981b32810a0742f86bc9ad919fcf1fdfd91a9aac29dc",
+      "sourceSha256": "da1d52aaa685ec8ba8f79aaf21aca152752aabfa3f9a47006fab39c59d0ae699"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f53e10f23d310be11e34e",
+      "localPath": "/menu/dolny-stal/0a78b41462872be14d003bee.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 73770,
+      "sha256": "24738d9ea3f81334475a41eb4a08e1b6167982c57433918f5a9d2275681e4e32",
+      "sourceSha256": "e1a983d159a6de241b41ad9020713dcf5d2324a0b6569eb2903555534b5ea151"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f53e10f23d310be11e34f",
+      "localPath": "/menu/dolny-stal/5274f69fc5a35a9f26e1843a.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 64592,
+      "sha256": "14f97bc1e892ebdf1989fec47ebb27c81c1b4a0bfb571d456da3b5838e7208db",
+      "sourceSha256": "44c08ebd219c3228bce6bef3e4ad984f378eb1a226e59e0c3224ba20ce4112dc"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f53e10f23d310be11e350",
+      "localPath": "/menu/dolny-stal/2ff0153e97cdc34943115bd6.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 63762,
+      "sha256": "5383007d5174951c558d42777d8af1901ee77cd32b1cf2496bb5ab14a9fc8134",
+      "sourceSha256": "9710e531687b6fdf5d3ac7f417bfd2b3e30fe5a75e7af01d4529259498b2529f"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f58120f23d310be11e3c7",
+      "localPath": "/menu/dolny-stal/66316d54fd8b6ed94239db05.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 62974,
+      "sha256": "e4197672bb4e7f117be7c8969e8b2ca490a741303d67cca1be1a989f0f983b55",
+      "sourceSha256": "edd6817c573e8fd82c42d4d4ca120209d15abed91acc9384c193248150111415"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f58120f23d310be11e3c8",
+      "localPath": "/menu/dolny-stal/52d9709ee91ad13a32031470.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 48808,
+      "sha256": "68a6ac1b183c5423a529e5b0cfeb7750e8aea690f1b4c1d133805454fdf781ef",
+      "sourceSha256": "8ea688e381eab5664fa363149f809ca8be7eb53351c9132dd01a28edddc679e0"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f58120f23d310be11e3c9",
+      "localPath": "/menu/dolny-stal/e4a99aaf649395f5c616a166.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 44220,
+      "sha256": "05cecfc51d5e4dbcfb2885d93a97722c527ae88dd99abb72f7404c2108acd513",
+      "sourceSha256": "a344c8b33ae150f5356f2c3a560c5db807b85859b6797cf73dac315a09242b6d"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f58120f23d310be11e3ca",
+      "localPath": "/menu/dolny-stal/9fdc8e4624a04253b78ee4eb.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 49186,
+      "sha256": "f10c88987fecfbcdb23fbfc4ae439ecfb2092a77cf5c124a17e2265b998e42ce",
+      "sourceSha256": "fe792e74d2a1bc88c572bed736754a9bffe56121ce4a0517898360f0cb4278fc"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f58120f23d310be11e3cb",
+      "localPath": "/menu/dolny-stal/53f8a0b374e7b8f345e4b96f.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 51612,
+      "sha256": "43df79ac1341b16578c89ff5bbd1c47b1a1913f0764cf3ca72867b0b7129f7c1",
+      "sourceSha256": "bf0212e50e07ea01d522fd0a2204aa9dab66fbbfcc5d01cf388fd29741ec6907"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f58120f23d310be11e3cc",
+      "localPath": "/menu/dolny-stal/c586241c0debb727f52d8af0.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 66854,
+      "sha256": "fd4eefedd419751a6d6aa8f9f72e5f6b34df99b0af86c1072dc5f06d7d6e3d0f",
+      "sourceSha256": "82edb39b15a607b771f147a6880bb412ad4a7f87e4e13865a0724eb9f4a42b5d"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f58120f23d310be11e3cd",
+      "localPath": "/menu/dolny-stal/127eecf510edf5551250f8e0.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 50284,
+      "sha256": "625ab18e32a30c74618a36646e4f71f2247a4f9c5310c428046ce1c93edaa3c4",
+      "sourceSha256": "f8ebfa8303d6958a3cc85e59cd32bd87c669ffdee1a59223156aced23ae35104"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f58120f23d310be11e3ce",
+      "localPath": "/menu/dolny-stal/31e3427cf7b4e8d1a5ade2b6.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 63034,
+      "sha256": "fb561827b05d5f8c956f718dc7ecf8eaa414e20fea0051c01c406b5b16aa25a5",
+      "sourceSha256": "d5aeab5f0a53fdbcec1c6484ac3f1f21288502bef22d8739ae43ca4170da933a"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f58120f23d310be11e3cf",
+      "localPath": "/menu/dolny-stal/d72d60c9898297c23eae8b2e.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 40402,
+      "sha256": "0accb71c843908ed2ac2cfaf36bfc310a1dc38f3d90f527c24c6c097133b2f76",
+      "sourceSha256": "71e3bd43db3f485cfbeb4c46deab61c9dcc81c2f0e3a42e84a73b9ac1119d6eb"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5a210f23d310be11e3f5",
+      "localPath": "/menu/dolny-stal/b812d7d60824b9e4979667b7.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 43356,
+      "sha256": "7ff103a86800a89ecada46de3d7c6c71848eae3fa11220cdeb2d7a8078501f2e",
+      "sourceSha256": "ec2005bd1b66c092360a3c6cbfac93ff507a22ed590d2d7811975dc3a0f76bf5"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5a210f23d310be11e3f6",
+      "localPath": "/menu/dolny-stal/852cda9d6176045825ecfc1b.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 39880,
+      "sha256": "615ebaf8a301c5584f381c1f38d97d42452c4df59b6217ea1764558cec26352e",
+      "sourceSha256": "f1cb9400ab5589c2a0ee3743e8753cf130ab7e3e787308131d781de8f1ff491b"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5a210f23d310be11e3f7",
+      "localPath": "/menu/dolny-stal/1032f7ca7b31e423cb9db362.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 37972,
+      "sha256": "08beab6f0f7c556b96e28501d953c22a4bc3aee60572f13d9cb5a928a5161b3c",
+      "sourceSha256": "e275d573e91eee2ea9ae525822230660277a5c80475092eba5215ca5dd2867e9"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5a210f23d310be11e3f8",
+      "localPath": "/menu/dolny-stal/322b4349d073fdcc41e1145a.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 44444,
+      "sha256": "9b4477e12b166577f973579b7ea953e4ee025216e6cad750cc1e2b49d86417ac",
+      "sourceSha256": "f6e052cc0b9d8e752ee10c28878ece3b2292e3d4278fd4bfdeb5d638c6a28e2a"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5a210f23d310be11e3f9",
+      "localPath": "/menu/dolny-stal/b508221204c1faea395934f5.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 50468,
+      "sha256": "0522ce82236a87ecd446c7deae984077253ee09fd098c1b2bd558493c83b3964",
+      "sourceSha256": "8bf968ecc52b6f14d5dee65d40220a28044798fc22fa8b6502f81b7401f8b51a"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5a210f23d310be11e3fa",
+      "localPath": "/menu/dolny-stal/3e63913e58a54d7ae05ec373.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 42622,
+      "sha256": "1557859f0f2bcf2936171e2dc4e7f9dd8c77bb2320fd7e2fc83f51a9f70bbf43",
+      "sourceSha256": "282b9903171969b88ae542f5a16c3d4bbe093a475fad7d8ce4692b4d2a3d4b23"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5b6f69da161c0fd80c21",
+      "localPath": "/menu/dolny-stal/185c4eb421d650291f5a97df.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 43356,
+      "sha256": "7ff103a86800a89ecada46de3d7c6c71848eae3fa11220cdeb2d7a8078501f2e",
+      "sourceSha256": "ec2005bd1b66c092360a3c6cbfac93ff507a22ed590d2d7811975dc3a0f76bf5"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5bf969da161c0fd80c4e",
+      "localPath": "/menu/dolny-stal/3e818f287bb8477086073294.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 50468,
+      "sha256": "0522ce82236a87ecd446c7deae984077253ee09fd098c1b2bd558493c83b3964",
+      "sourceSha256": "8bf968ecc52b6f14d5dee65d40220a28044798fc22fa8b6502f81b7401f8b51a"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5c0569da161c0fd80c51",
+      "localPath": "/menu/dolny-stal/ed4dae3138bbdc727071c855.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 44444,
+      "sha256": "9b4477e12b166577f973579b7ea953e4ee025216e6cad750cc1e2b49d86417ac",
+      "sourceSha256": "f6e052cc0b9d8e752ee10c28878ece3b2292e3d4278fd4bfdeb5d638c6a28e2a"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5c1269da161c0fd80c53",
+      "localPath": "/menu/dolny-stal/5661d7441a5f684d486452e2.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 37972,
+      "sha256": "08beab6f0f7c556b96e28501d953c22a4bc3aee60572f13d9cb5a928a5161b3c",
+      "sourceSha256": "e275d573e91eee2ea9ae525822230660277a5c80475092eba5215ca5dd2867e9"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5c1ec5d5e1acbbc72081",
+      "localPath": "/menu/dolny-stal/a3f928ec3304759c885138ac.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 39880,
+      "sha256": "615ebaf8a301c5584f381c1f38d97d42452c4df59b6217ea1764558cec26352e",
+      "sourceSha256": "f1cb9400ab5589c2a0ee3743e8753cf130ab7e3e787308131d781de8f1ff491b"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5c2ac5d5e1acbbc72088",
+      "localPath": "/menu/dolny-stal/c75e67b939b30a9fb1b12089.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 42622,
+      "sha256": "1557859f0f2bcf2936171e2dc4e7f9dd8c77bb2320fd7e2fc83f51a9f70bbf43",
+      "sourceSha256": "282b9903171969b88ae542f5a16c3d4bbe093a475fad7d8ce4692b4d2a3d4b23"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5d530f23d310be11e400",
+      "localPath": "/menu/dolny-stal/8f114ad0649359537e7aa681.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 46630,
+      "sha256": "60e2879f39f18cda09890a46036b30df73fb98f99301e16533b9c767349482ea",
+      "sourceSha256": "ca0a13ae4e70de75d241671e7c5c806355210b641dd9af680723cf8a261056b7"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5d530f23d310be11e401",
+      "localPath": "/menu/dolny-stal/6e93cf8d1e87fa1d63c7380a.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 46814,
+      "sha256": "1d333108889df46acddebcc64398a12cb7694adab1af2183b3ffb362de16d408",
+      "sourceSha256": "51a02f9aff275c43bdcf277eb7362cfaff72005c2117104842ba19381d2d708d"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5d530f23d310be11e402",
+      "localPath": "/menu/dolny-stal/fb060f989bc1e934bda93e61.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 46662,
+      "sha256": "ea07989198b988f72c4aeb5af5e1763c44d068edb6b83f7dcac9303368d1b26c",
+      "sourceSha256": "961f8bf7c4a7a61224d4bddc34cc9f71a0c946e2babe01b9b9aa09eb6a00f955"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5d530f23d310be11e403",
+      "localPath": "/menu/dolny-stal/f1aeb37ab7eadf41d51bb12e.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 46496,
+      "sha256": "8f9e5cd425ae650e58342f6842d827f4a3f748010565e1601481c6d982172e71",
+      "sourceSha256": "fd26aebc4b3612069aafe78eda59de65629d9cc5ac033933912339b46f2e2ceb"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5d530f23d310be11e404",
+      "localPath": "/menu/dolny-stal/1a48be0160b1a12f271ba469.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 46178,
+      "sha256": "75e4ca2effa29b51b711cdeffb0e832d1a37e1c3ca70299d4fb164a795f68c99",
+      "sourceSha256": "71fd358173e21aee0296feeff002cb00fe51f916ec05dd386cd45ddb65f75185"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5d530f23d310be11e405",
+      "localPath": "/menu/dolny-stal/54141c95e402e53d7e52afb5.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 46788,
+      "sha256": "5dd78444832c7df3468f9fc817819af9613108eae21cc449cdd11461073c7ff5",
+      "sourceSha256": "670dfbf48cdbfe6bc819e9a4c9c3278174b1cd946b2f33a102f1d6a27d248bb0"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5d530f23d310be11e406",
+      "localPath": "/menu/dolny-stal/de100c82bf5fe9a0611ac933.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 46452,
+      "sha256": "d1d55bae9b09238ebd5009913f749f868fbe29cd877325a0c92348a9e517beb0",
+      "sourceSha256": "825031dc8ce06414286bd5c9c1b84790cf081d29a69c04ae2c7c303df16cf556"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5fa3a8528f0c158f107d",
+      "localPath": "/menu/dolny-stal/d4cf07071c6fb242c9ff7a7f.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 55708,
+      "sha256": "b460eb4191068bb90ab59a63c1e2e1d4c36e40af6961789952ac800847117816",
+      "sourceSha256": "6242c3c1a488b83c8249a8b75a06e7edac61206adfee8769f58da2929c84a0b8"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5fa3a8528f0c158f107e",
+      "localPath": "/menu/dolny-stal/6055e657b932ac3fcbf34981.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 55790,
+      "sha256": "85d81954a7ea376db7f62d5fd6b31989eb98048eda79c58d65e1a8312090d08e",
+      "sourceSha256": "12663a6ed3cf9bd37e1afbb8c531a33799d19d52bf9d32948b8ac76032eba22d"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5fa3a8528f0c158f107f",
+      "localPath": "/menu/dolny-stal/f2f71f8af39484aefb281b51.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 55030,
+      "sha256": "47839bc70cbdb986e2b4c6aa46700d664580105c54b293ba3c233d7830a75d39",
+      "sourceSha256": "854c2d51a5e2709d860165c21f14383e3b5479f83fa7728c89e993cbb2ee784e"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5fa3a8528f0c158f1080",
+      "localPath": "/menu/dolny-stal/546a8db1f28c74e6962f75a3.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 54942,
+      "sha256": "9faaf343e5501fbf344cd21fac3c06ca659e955ba4304b4fcbac5511b7468f9c",
+      "sourceSha256": "ae5e7a4a21dee6525388b6e1ad5fcea81d2fdc177baad99c8323def5705f62fa"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5fa3a8528f0c158f1081",
+      "localPath": "/menu/dolny-stal/816512647289faa781f67a73.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 55714,
+      "sha256": "c0aba60a573948e085b01fd8b36606e9441711821f2baf81b8e448c9ad361bdd",
+      "sourceSha256": "e26a5da748981e112acbaeaadd959f0ee42d15ac8444cb9d3ec73a1b77bd9ae3"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5fa3a8528f0c158f1082",
+      "localPath": "/menu/dolny-stal/fa405c7008a4d3c8cfb1ebaf.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 49080,
+      "sha256": "15098a8d7060ecb60c0b520c01e76b862acc849e937736e2f518303dc1163692",
+      "sourceSha256": "8c5ce7c46f7c95662eb6f4c65d6bec2e4952868a7b9e12fb629bf2be20f8dcd6"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f5fa3a8528f0c158f1083",
+      "localPath": "/menu/dolny-stal/3e85949c9400798687326e73.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 55712,
+      "sha256": "e982cac98f3854b03bd6f512d9766a5211b612791f1dd88d9e1c1b151d7d962f",
+      "sourceSha256": "cf0bb8a44ece62280d75215d7ece382ec65deb2e731812d4def6fde9e469cb91"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6ab80f23d310be11e4a7",
+      "localPath": "/menu/dolny-stal/7d6155cd9bc60efce881360b.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 43122,
+      "sha256": "631267c1ab9ddfc4c5d732e213cc34c600b7394eca3c5d3067bb9a0510b6f1cc",
+      "sourceSha256": "f271570edf85346f6611b0a28689df03a2d3a15d391ceac7befc34650a2c3aca"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6ab80f23d310be11e4a8",
+      "localPath": "/menu/dolny-stal/fe3e87cd448c241e1c283a57.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 50398,
+      "sha256": "9054f3a7a711109cde172094c98280d1a295f6e4e80fcf1620ea3c4839bc3ab4",
+      "sourceSha256": "c19ce33ce7cab88b9c091baf8bdfeca3b1fc9f0929db784fc286e33d370c4e37"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6ab80f23d310be11e4a9",
+      "localPath": "/menu/dolny-stal/1268d88157217c13574f64e5.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 51354,
+      "sha256": "329197004e09d7116dac76bae0038e4907a04337e054c16a33de6e60b3e544fb",
+      "sourceSha256": "44fade41162d6cb0dc2f28fdaa8d67249f8eed98659ec366f4b931bbc6cf3179"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6b120f23d310be11e4ab",
+      "localPath": "/menu/dolny-stal/70907d2f4f529f199dd5f940.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 50098,
+      "sha256": "213bc81d13ef1edf0759e57bed351f4d81f404af93aac32508a53255fa262b23",
+      "sourceSha256": "d9a228260f805989bea5d82a1e26c460696f50d581b13428170f7e0e31faef2e"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6b120f23d310be11e4ac",
+      "localPath": "/menu/dolny-stal/885de5fca2605677e20e7602.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 50264,
+      "sha256": "49deef8799153393a41be87bafee50986ea3aaf97008a9b7fedf4a0a2fd73535",
+      "sourceSha256": "817699a4a38d17ee33db3279b8cf0ac7b492577c5c65ad08e55cc0b7927978ac"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6b120f23d310be11e4ad",
+      "localPath": "/menu/dolny-stal/cc8a5d55b4248d519326014c.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 50420,
+      "sha256": "f67c28fb2ee5d49230542b99417faf475a34a4be3b7216979af1b4b12d8c51dc",
+      "sourceSha256": "cb60d7c720e09d5b820e41f28807bb485380600fcbf57673192e848c3525cbfa"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6b120f23d310be11e4ae",
+      "localPath": "/menu/dolny-stal/27a8df2979c9149710099d37.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 50290,
+      "sha256": "25eea749b341fa85c6ebe2d342aa4267009d19e14962991fe4ef7a981e41ed4d",
+      "sourceSha256": "acb33e3f6e2544c23bbbfb7883585680b4ee8801cd9162c7467c507db530bd10"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6c570f23d310be11e4d6",
+      "localPath": "/menu/dolny-stal/aaab6c27d636d90fd8d964e8.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 48196,
+      "sha256": "be134e6d7589b6477a9a8339da1185c42d01d98b9b337d9ab3b2cf840337c616",
+      "sourceSha256": "ef7e7dc15e5d590bbc66dc32c5006dd4cc590250ccca3d02e523f8f58536fd0f"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6c570f23d310be11e4d7",
+      "localPath": "/menu/dolny-stal/f3e6416e2aa7a7bea4266c9e.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 44992,
+      "sha256": "c4ed1c5ce4f3f9008cdf3ff61e279cc79d75ec936ffd3f36f58224982a4e0453",
+      "sourceSha256": "790c3ed0d427f330b444a99b85c35cdd141c3b5b3f86d829c434fc0ebd29792d"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6c570f23d310be11e4d8",
+      "localPath": "/menu/dolny-stal/7f8c6547ce1c9fd914a6e2d1.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 38248,
+      "sha256": "f24f5b5ed80c5837c9ff4c06fefdf692caa0ddf8031dbeb9d8c7e09ef3860754",
+      "sourceSha256": "981f30809cc5bcce6adca2053472ef9e9d5ec121ff05c93e430554a736b21957"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6c570f23d310be11e4d9",
+      "localPath": "/menu/dolny-stal/ac7c370ef7eb9a5c96082f00.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 38076,
+      "sha256": "c3c78d2c6507a2aff0c741a858d52911addceaa50c3b7d3c4ca46ab4d2b935c8",
+      "sourceSha256": "5ce452232271d9f640e99c4208968010bbccd31da2b65401784a411adaa62f10"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6c570f23d310be11e4da",
+      "localPath": "/menu/dolny-stal/a776236b585d42b90713c826.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 42148,
+      "sha256": "031080dbad7ef57dd277b4621fdb875703df473cca6ecbb8cc944e52500e8358",
+      "sourceSha256": "e62814f72f04b42257efca08db30265a8a9848b34d0d4cccc711fbd0d01ed606"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6c570f23d310be11e4db",
+      "localPath": "/menu/dolny-stal/dd11e06385e3ee3587bfe53a.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 57348,
+      "sha256": "e28aa1302c747f19f813d9eeba315341f90535e4f1c8bafa639aea889c5207df",
+      "sourceSha256": "21554ff449f93553c0fedff4bbc8dbf9c4b4163315ba134b85f18154e1827f66"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6c570f23d310be11e4dc",
+      "localPath": "/menu/dolny-stal/c292e50e7863750cd19e8aac.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 37964,
+      "sha256": "94bf670cceb1797f84ee34a247075ecfaa2a38c5c3d7732ede5dee695c0fa4c7",
+      "sourceSha256": "42dbcdde3cecf237c8c7686fd8e72d3ace19c5cf465aabaec0417570d9b8cf3f"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6c570f23d310be11e4dd",
+      "localPath": "/menu/dolny-stal/6af444fb5a34d4420b201db8.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 36424,
+      "sha256": "a020c70b1e17025900a07e74c38177620f2b02c57d949529a65fb07c1449040e",
+      "sourceSha256": "277b0f8427c91799818f3718f215314d10db43b06aeb953b9740c4f158a7409c"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6c570f23d310be11e4de",
+      "localPath": "/menu/dolny-stal/a4ac1625d1a9d4279cce2c50.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 37224,
+      "sha256": "3dec9fb11f9cb96ef20d61eb8c1aa0104d95990b1f52580cf1b2b219ad27dcc1",
+      "sourceSha256": "6e6f914b0bcd41f581944c99ad0343c24ab0f465c4d20662a278e69a098a2529"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6c570f23d310be11e4df",
+      "localPath": "/menu/dolny-stal/2c2e8907ef0d23f06a223600.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 41384,
+      "sha256": "ebfbb51d3c5d1902fbf2f3d68e9f70d6ede19f75d9c8950ccb3ddf9174169d41",
+      "sourceSha256": "0b0d3edb663a5ea61365a46f5370a063e9b7f0facceb4b561943195266d80b88"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6cb23f8fcc0ffc18c953",
+      "localPath": "/menu/dolny-stal/dc2e3c187b77b93ab0f326b9.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 55868,
+      "sha256": "a8d2ff1514977680abefe8561ef7d77db4b82c6e4e09e5227b1e6c1abff5a945",
+      "sourceSha256": "d18b7e3964bed641cb5eda3cf40fcf392c3ffc050782ee196fd5ef2865b62255"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6cb23f8fcc0ffc18c954",
+      "localPath": "/menu/dolny-stal/8287e179783d8c8a7d4e4af8.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 55828,
+      "sha256": "323c7ba1d9cd14a698aca872ce2e5bbe3ac2608d26b41ed9b7ab814ebcccb8f5",
+      "sourceSha256": "197eaae436ac626d4ce5fb4502908183f0319af7c7436d2cdce68f6da8ec430f"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6cb23f8fcc0ffc18c955",
+      "localPath": "/menu/dolny-stal/4bc2e214dde4595655dc4e48.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 56026,
+      "sha256": "2f34ea92a48b384089834e50351d27abeffd6c97f67e1575e60663fc53574807",
+      "sourceSha256": "d949cdee8cf45096e9eff77c69aad4134a9fb0dfbae15f65365223ccb946eaa0"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6cb23f8fcc0ffc18c956",
+      "localPath": "/menu/dolny-stal/b3c00c21deda8993d7033310.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 55972,
+      "sha256": "e63e7379a9c6ecb5a70d33541f03935026639d839d917bfcfcaa4242631e0087",
+      "sourceSha256": "92d0938079fa22863151d55036009065bcd13e5c416a74245492eaddc7009286"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6d490f23d310be11e4f4",
+      "localPath": "/menu/dolny-stal/86492467cbbfb70860323224.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 27918,
+      "sha256": "1bf8983f83a91712d5fc0a93855e5ef0eda9fb3e78b8b51d2bfbe149fcd39d67",
+      "sourceSha256": "4f322edaa4cee165f96c62f51c9652a65d2e6e5f518384e7f8044d4296212db4"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6d490f23d310be11e4f5",
+      "localPath": "/menu/dolny-stal/1cb4ed371a0c13307929e2bd.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 33684,
+      "sha256": "46f3dc1e280644f305848beede0c70990ab6ddffe9781888fb162ce56b660871",
+      "sourceSha256": "b80d77a43a668859bcafe65d76091e8fa7caec07dad807efb15d24b54d83620a"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6ecc3f8fcc0ffc18c97e",
+      "localPath": "/menu/dolny-stal/abbeaf83d298fec0e8d3926d.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 52516,
+      "sha256": "292d633a35c16b118551a96a0fcc94907b65d5bf11955a377d59b07f2789d180",
+      "sourceSha256": "cbc6088876ca8a2fddfa122ae5988683465cdd7f5d8d40c65e5ea40863fb2f78"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6ecc3f8fcc0ffc18c97f",
+      "localPath": "/menu/dolny-stal/57290e3218d56a22025ea44f.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 35274,
+      "sha256": "43c2a9e4a5fa57af25bdfe30140b76e2d610e45dde7fbcbe0d954e1e4299a3d1",
+      "sourceSha256": "78d7e553af0b7887bb61581f0fb8ad47f1cb9f7c9d574ed9276405ff32c4fbce"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6ecc3f8fcc0ffc18c980",
+      "localPath": "/menu/dolny-stal/64d653f94df68942a089aa3d.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 62866,
+      "sha256": "009a895d17f170fe55b8efdcd96740840f35bb032f9147f1b97172111f1f1313",
+      "sourceSha256": "6e7220745f5257dedb2927a9193cd4b1f1e2948b70cd7ac448eb025aab26d51b"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6ecc3f8fcc0ffc18c981",
+      "localPath": "/menu/dolny-stal/6e7ac178bcc29a6ef7f77814.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 48312,
+      "sha256": "c21da756ed58b0b39b8f10d58cebd092a99fadb09c82720e209b4837a25fcc93",
+      "sourceSha256": "651281f7bd700b905c009b2f84d56d266d7db1267899c9029b9c53477511aeca"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6ecc3f8fcc0ffc18c982",
+      "localPath": "/menu/dolny-stal/1c5220f7b2be89b91249e2c6.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 66078,
+      "sha256": "4a5f188f0493263d75fc95864720441a0236ce997ad166852f9b83081f7a8387",
+      "sourceSha256": "9a4b2ac693fd333fd602d97b5c448ab3ac8e872a0d9490e2d5e5cb7408ad51e4"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6ecc3f8fcc0ffc18c983",
+      "localPath": "/menu/dolny-stal/bf191050f644bfc2a2546d9d.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 70254,
+      "sha256": "92257a3288548f9dd20c1717e758b02f519606358a20ccd5fc9e3f0eaefa34a0",
+      "sourceSha256": "602b86d0074e0a3b7ad7a2dd4f69599c0fbbfa66fbe4290da366c8afc7db5e83"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6ecc3f8fcc0ffc18c984",
+      "localPath": "/menu/dolny-stal/ca6c3939f1c1cf8cb01307a7.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 52398,
+      "sha256": "d2591167dcd58aa9eb77920972fdc709fcc915237bf6729978f40ccfab2ac9a6",
+      "sourceSha256": "311ceb781db11ee152d4e14dfac3c3cce1c6379962c2e2fe6e71ac7144d0d9c2"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6ecc3f8fcc0ffc18c985",
+      "localPath": "/menu/dolny-stal/4ea067b15c85558007d862c9.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 61550,
+      "sha256": "fa8d0283d9799acb096e621cc1d8a2968b3382a07acded08e0fbdaf55550eaec",
+      "sourceSha256": "483b917592be1d9a2cdcd55bfceff9580e28e76a2eeb8c06152b7c99f98290ab"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6fa03f8fcc0ffc18c98f",
+      "localPath": "/menu/dolny-stal/95d021be2912648950300d10.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 44288,
+      "sha256": "35ef345e82ac57432059e38679ec27bca74e2d951bb49722aae701dc94e09132",
+      "sourceSha256": "83d2a52086c4ba7be93ec37bcb32c8076d5f8427295bb39a0e9fcdafa1681f42"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6fa03f8fcc0ffc18c990",
+      "localPath": "/menu/dolny-stal/60fb7367c8dfdb5ebfaccd86.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 40002,
+      "sha256": "f6861db7e5d431891549919c086a8e65c10387739d55cf9db404b7885d66c4ba",
+      "sourceSha256": "82968f1ca1b6b5da7d6ac83f362e890b1c57fee6d5545049b660c731562b0fde"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6fa03f8fcc0ffc18c991",
+      "localPath": "/menu/dolny-stal/f1c3dc791abd1103c6a38354.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 57432,
+      "sha256": "4c6a7f86cf83ab63c9ae6c446e12d7e7101b8ce633228a53b0321c23c591cbf2",
+      "sourceSha256": "25d2fbe94f070d5485bf5b4519eaedb43f4abaee0503044cb0b2d33e9683f806"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6fa03f8fcc0ffc18c992",
+      "localPath": "/menu/dolny-stal/84c52af9db7179c46d2a5558.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 31856,
+      "sha256": "20b0e108410f8b2f188d30115fcc5a05011c81291550f77ed9a64ecd095f71b4",
+      "sourceSha256": "e0d209d752addf8c455457503e1c90116328c2587914cc2c04f9369424732fd8"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f6fa03f8fcc0ffc18c993",
+      "localPath": "/menu/dolny-stal/d3a99c0a9ecbaa6d44890ed7.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 43034,
+      "sha256": "830956378ae6e1e57e5bb20d83490556255d6560487435a56455f5faa006c376",
+      "sourceSha256": "a972f0a223df94ef6fc07affa8f460f6012ddf73b207cce528cbae2a400a60bb"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f70bb3f8fcc0ffc18c99a",
+      "localPath": "/menu/dolny-stal/96d8993b3f7b60de60c485d6.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 33028,
+      "sha256": "ff41b2784cab79683bd0e00cbc5327be94a2f8a3d973ce8f8cb7bad72bd6df99",
+      "sourceSha256": "854ada52c356ca5f7089fb10ae7fc5456a54c8d2e14b5690e6d94e5971cab97e"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f70bb3f8fcc0ffc18c99b",
+      "localPath": "/menu/dolny-stal/e99d7b501d204154f1202068.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 46854,
+      "sha256": "3018ecb1e7a5bc3ea651f9dd95c1222a5434f65c247329eb86ba4ba6691643fc",
+      "sourceSha256": "e29677b31aa7645cfb8965b5eab1c2ff6ae8828a806cf49769e930500645663e"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f70bb3f8fcc0ffc18c99c",
+      "localPath": "/menu/dolny-stal/b8e3d32bab37b21583697730.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 41440,
+      "sha256": "7273b09428d7c36dfc4b0a9944419acc605d057d683d908f0c690bb34840ffcb",
+      "sourceSha256": "c10b96029e636369a4a8a08b50e1b586f47fd0de9e4d1abd4c587c56a2862634"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f72590f23d310be11e534",
+      "localPath": "/menu/dolny-stal/16a942c99b4e42d976268d06.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 35898,
+      "sha256": "8a199c3b34b95d7b9872557ef5b95124b3a78d8cb7762686f91e25fcf8273570",
+      "sourceSha256": "0c9f5faa53a8722eca7ef0cd6639e34561ef8a3c7be6316abefa4656636349b9"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f72590f23d310be11e535",
+      "localPath": "/menu/dolny-stal/08dc482863acf5565d0570b0.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 30358,
+      "sha256": "fc92fa31bc1268d8108289a762a78833b4ebe6083b9f873b53dd9f8872a1a599",
+      "sourceSha256": "82d27cfe9b4aac02590c43808f9a92802eee52a4377125dcdd98ce39684583e2"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f72590f23d310be11e536",
+      "localPath": "/menu/dolny-stal/15ddf9df7a2763a3e0015509.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 34352,
+      "sha256": "bb0413af6552176165dd20cda45776f4b2a5556609615e280ee66ecfdbbdf9ae",
+      "sourceSha256": "06986465a14393958db2c49ed2c1027d51ed894d48cdd91be4fb132d8c3d01b2"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f72590f23d310be11e537",
+      "localPath": "/menu/dolny-stal/c8d01248705e42f1fcbeaa67.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 38068,
+      "sha256": "b8ab59636e9fe634edc450044bcd5f317450f3955add3059ba3ff8ad9cdf0f9e",
+      "sourceSha256": "b19b77f3bfe8c2fe4d8dfd79c0cf33bd94c0f1aaf2ee75b258288f008613ae78"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f740ba8528f0c158f11dd",
+      "localPath": "/menu/dolny-stal/85c7fda289cd18ff849dabf5.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 30308,
+      "sha256": "ba8eb6400ebfe1bf9a10220c9ab2962f268d912d76ade38359026263c515541e",
+      "sourceSha256": "05b26085f7025f65a9be2a7b5403c521d537ecdb0c10b953849e5affe48220e3"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f740ba8528f0c158f11de",
+      "localPath": "/menu/dolny-stal/df474036c8043d6ef563f1ff.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 36444,
+      "sha256": "d927d21fdca5005f41aafddfb8ebc0e9232b05a3960015d2ec95d296d5d7938b",
+      "sourceSha256": "58e9cf1eacef62cbf8de449272fdd083479b34b2dbdb14af5b81ec5cada9be64"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f740ba8528f0c158f11df",
+      "localPath": "/menu/dolny-stal/d48f21c5c4a3d31a4e182452.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 33600,
+      "sha256": "0f737d3cf8abd80d7572a0767259aa1349ff1ccf5f587d45a818b260b28ee0d6",
+      "sourceSha256": "70f4bdd077ff58316b212c1514291a0ef3f547e8434a951d90461378b9635391"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f740ba8528f0c158f11e0",
+      "localPath": "/menu/dolny-stal/240d834593151d123d2deaca.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 33364,
+      "sha256": "c039160d1273a53974677257216d81546deb9717a72bcf307bb8210a2d7a37e3",
+      "sourceSha256": "61ccf2697ef3700d14d1a15ff4c6e571d06992e457bd75d3555267ebc5c07bbd"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f744a69da161c0fd82d98",
+      "localPath": "/menu/dolny-stal/7c7ccacdff9ab7f88be8b637.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 43518,
+      "sha256": "c01c69922d573aba808a3b494c41de4f6066bd2e5a685a00a0a9f68c72cfa767",
+      "sourceSha256": "5f20a07094da732107fdb98b2f20edd676e4b14a89ecec7aa32a3ca144759b2c"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f745769da161c0fd82da3",
+      "localPath": "/menu/dolny-stal/6715e32f816ec3ba25b2e37c.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 43518,
+      "sha256": "c01c69922d573aba808a3b494c41de4f6066bd2e5a685a00a0a9f68c72cfa767",
+      "sourceSha256": "5f20a07094da732107fdb98b2f20edd676e4b14a89ecec7aa32a3ca144759b2c"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f745bc5d5e1acbbc748ee",
+      "localPath": "/menu/dolny-stal/02dabe354d56cd442d01bfe5.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 43518,
+      "sha256": "c01c69922d573aba808a3b494c41de4f6066bd2e5a685a00a0a9f68c72cfa767",
+      "sourceSha256": "5f20a07094da732107fdb98b2f20edd676e4b14a89ecec7aa32a3ca144759b2c"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f745fc5d5e1acbbc748ef",
+      "localPath": "/menu/dolny-stal/b8ff96e8cd711a024e7bd71b.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 43518,
+      "sha256": "c01c69922d573aba808a3b494c41de4f6066bd2e5a685a00a0a9f68c72cfa767",
+      "sourceSha256": "5f20a07094da732107fdb98b2f20edd676e4b14a89ecec7aa32a3ca144759b2c"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f75420f23d310be11e564",
+      "localPath": "/menu/dolny-stal/33c96d858c6fa16e6f7a45f6.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 40012,
+      "sha256": "4ca8fda16d53f88a92ee85b57744e4577e8d3a301b8266ec9562cd941666b61e",
+      "sourceSha256": "39680791ab2f081e4ae75d60ec1ae217e961faa96484fef1c04de68838078339"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f75420f23d310be11e565",
+      "localPath": "/menu/dolny-stal/215cea2691ab88894ee6e3d7.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 40214,
+      "sha256": "8ceca27a40e3302b8c1c1eded90ee107a33148a29db24c738de423b7f47ee623",
+      "sourceSha256": "b70a579f6c072e31e6e02937c0c7372c2571cc9e5179b0febdb44aea9fa47910"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f75420f23d310be11e566",
+      "localPath": "/menu/dolny-stal/fd72a7e33f86c0b66872ab99.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 39418,
+      "sha256": "9fd4b2d39564bfa31e0fd77c7d0b3c9bbe6046d6a599f26b85792709cbab44eb",
+      "sourceSha256": "20bcd6d8ad4300613dcb7322ef1f7d93792b90509bb7145b8fcac26b33d13bfd"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f75420f23d310be11e567",
+      "localPath": "/menu/dolny-stal/4b386a7477a41296de56ba5d.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 40342,
+      "sha256": "da1d1ea434c8ac8571ceb7d47667d52b99c7b71b146e7b4554bcd1ddbdb3777a",
+      "sourceSha256": "bcccdfe9c4b226d000eb2d49bb05f90318e384cb57db8610c1e7b9e55d871f71"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f75420f23d310be11e568",
+      "localPath": "/menu/dolny-stal/c119bcf4189a2d0ee7018521.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 35402,
+      "sha256": "27706663e9056f88b5d1be32bbaab9cf33b8f51d9ce515086b947646bdf0dd8e",
+      "sourceSha256": "12ba6d9706098a47c2c1c0724577c4d78d94d411f04694e4ccc3616d41e4981e"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f75420f23d310be11e569",
+      "localPath": "/menu/dolny-stal/62493290722fb6e464522c08.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 39484,
+      "sha256": "2a65455ba791121bf3b3e0d9e8b6cb31f7aa1ebff1179d097dbe8ad8fc8acea8",
+      "sourceSha256": "2954364c4aaf695a5560e9c1b8fb97480f986ffb058643c770ea687d54638e37"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f75420f23d310be11e56a",
+      "localPath": "/menu/dolny-stal/9694ad06d5d3d88288162dd6.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 39468,
+      "sha256": "2a0156864d2fed01b1e41d40edea22fef24f046cfbd21caea9c93134c55471dc",
+      "sourceSha256": "d57660861cbc03f18357ed2c126677978ba9af5aa96e973e17487173600cecdd"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f75420f23d310be11e56b",
+      "localPath": "/menu/dolny-stal/1c03b3f34db2a6c6e25881fa.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 40102,
+      "sha256": "0790638b766d91e255c3b56e09101dc68d7241abd1589b7ac6ffc08f5aa9f8e0",
+      "sourceSha256": "5a53c328d890d69115a80c59a1e66eb1b7c692192645f5c870b72d1d286753d3"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f75420f23d310be11e56c",
+      "localPath": "/menu/dolny-stal/3c0f2e9a65130d688e69703f.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 35496,
+      "sha256": "5c7b573805b03f05266e4bd3fdef412d36836cb4091c67b15564f50aafbaec85",
+      "sourceSha256": "dc40d629bf6fee1dcc8b3e3c85f660ff05e58f0ee142c8a0455a0c92214c84f1"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f76450f23d310be11e580",
+      "localPath": "/menu/dolny-stal/76904753ce2e5c49bd07a0e5.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 33628,
+      "sha256": "8f1e9a6b39acdcfebf1ab73d4c144cc55dd5c2edb8f92711bebbc72ba39882d7",
+      "sourceSha256": "84d025baa920543cce0c60c715494ec0374aff036f26c3dd80b24333b25ff953"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f76450f23d310be11e581",
+      "localPath": "/menu/dolny-stal/0edbe1715aaf45891bb7752d.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 31810,
+      "sha256": "5efba347b26c57ce09ee9724355c7dd80c8caa684a1bebccce7947f0b2821046",
+      "sourceSha256": "daa22ff30a5b1f3c0e1a7fa6fd3cc418bc1ac2d9b7b30ad3ede66de4ed32afab"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f76450f23d310be11e582",
+      "localPath": "/menu/dolny-stal/70c44220a072460819475cbb.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 32248,
+      "sha256": "838b75a10319bdc748ce6e856ef712a6b6a656b8315e44ec5f78cbd974aedb3e",
+      "sourceSha256": "d06a3a8d3fbede7fa0f45752fe4dfb3ca2cc9372209fa01041b4f3373c4aad49"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f76450f23d310be11e583",
+      "localPath": "/menu/dolny-stal/cca1e2aafb00c1516fb854dd.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 40490,
+      "sha256": "c9abd57ce8c054a94dbba554f1e8e466d076c81c02f6847e696d2c2ce1c5d9a2",
+      "sourceSha256": "091152fe10ce896505ff61d2f9f4003476bb3dad9cb087a7f91df91b953ab7ca"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7688c5d5e1acbbc74bfc",
+      "localPath": "/menu/dolny-stal/177d038ada1789de69a32026.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 38424,
+      "sha256": "b4b77e5c93e8b0a9c370bf8e1046678f7412bb1c67fd605296acfbff3bac4b8b",
+      "sourceSha256": "c9c65dad37489ca1abcc0698fdd4f20a05780692ae7737a675ee1fee6ead9164"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f76aac5d5e1acbbc74c05",
+      "localPath": "/menu/dolny-stal/1dd0a5a5f4ba006f2f758e45.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 34522,
+      "sha256": "5351a9eeaa73682974a4bd2c5d7f722f5ab4d16a8ced5c6171134a8d0c3daf0c",
+      "sourceSha256": "edc9cf9b9bd34f6971ec4031a0e35505216ba6ca91f935c445b6565a3147ff78"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f76e1c5d5e1acbbc74c1e",
+      "localPath": "/menu/dolny-stal/7b43359d858e1de663b517d1.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 24448,
+      "sha256": "4dab95c46e5444a7f2ea1ae5e9e980bda8591a33482cc5c5e3e06be9122d3d7c",
+      "sourceSha256": "ff843dea6bc1e55fcce9090df3db19aea71e23ba55ab3d79ac5e91e5255ed650"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f76fec5d5e1acbbc74c28",
+      "localPath": "/menu/dolny-stal/b4c9fd69f25e60ac6419cbee.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 35256,
+      "sha256": "38241e6eb584dfad6c72f6cc0cedb884a68bb4a77170e1bbb7a8f10c0da84bda",
+      "sourceSha256": "b9025b7e30cc6ebb06f76fabd0a90544017cfea08e581abbf065a1e1c614eef7"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7727036cbdf8f0b76de2",
+      "localPath": "/menu/dolny-stal/18b0a7b211967c1fed4110e0.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 40846,
+      "sha256": "29a8f529869c12e82fb827bf2011f8475536d615d34c0049167a73085d64ec17",
+      "sourceSha256": "8bd73bea6e8511dade717e8897bd6c6fa04b583f2227e0f0a380a23200c5191b"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7bd0a8528f0c158f123b",
+      "localPath": "/menu/dolny-stal/d725c79286b049e489fa9c06.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 53808,
+      "sha256": "7b4670f7af134ea5d5cceda65313d9f14efe9c8c56180d4cdfdde2275dba3d8f",
+      "sourceSha256": "c4cbdf2021e54c0fae6a06d7e60712b9cce0418e1f1dfe16c91afb5fc87691ef"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7c45036cbdf8f0b76fc2",
+      "localPath": "/menu/dolny-stal/c514a21baae32e704a2093fd.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 45706,
+      "sha256": "7d7f7a1a05f52be6811a18acfe97cc2f0be37707d76fb1110a47ec5e06b4e966",
+      "sourceSha256": "cc804dc4d7433ae02d753a32b49fa2c9467781b43c265d6c815512389548408d"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7c4b036cbdf8f0b76fc5",
+      "localPath": "/menu/dolny-stal/1322d9ce9b596c76dddca422.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 45706,
+      "sha256": "7d7f7a1a05f52be6811a18acfe97cc2f0be37707d76fb1110a47ec5e06b4e966",
+      "sourceSha256": "cc804dc4d7433ae02d753a32b49fa2c9467781b43c265d6c815512389548408d"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7c50036cbdf8f0b76fcb",
+      "localPath": "/menu/dolny-stal/48bbf6fb7ef2c755965d7c82.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 45706,
+      "sha256": "7d7f7a1a05f52be6811a18acfe97cc2f0be37707d76fb1110a47ec5e06b4e966",
+      "sourceSha256": "cc804dc4d7433ae02d753a32b49fa2c9467781b43c265d6c815512389548408d"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7c5e036cbdf8f0b76fce",
+      "localPath": "/menu/dolny-stal/6bacb9d62912a52f3960ec89.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 45706,
+      "sha256": "7d7f7a1a05f52be6811a18acfe97cc2f0be37707d76fb1110a47ec5e06b4e966",
+      "sourceSha256": "cc804dc4d7433ae02d753a32b49fa2c9467781b43c265d6c815512389548408d"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7cfa69da161c0fd833e8",
+      "localPath": "/menu/dolny-stal/a02b5a26f8ea4df0ee19290f.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 45706,
+      "sha256": "7d7f7a1a05f52be6811a18acfe97cc2f0be37707d76fb1110a47ec5e06b4e966",
+      "sourceSha256": "cc804dc4d7433ae02d753a32b49fa2c9467781b43c265d6c815512389548408d"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7d2269da161c0fd833f5",
+      "localPath": "/menu/dolny-stal/77b467c404628e6a4a95447f.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 47372,
+      "sha256": "f271b71500d1081add3ab532411be774faf9b6f1428b2464e8d56b05cb3c9211",
+      "sourceSha256": "04e6b3591b35d7e3f65a847c60d474e16f06cfadd049470285ddf41a219477a2"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7d55036cbdf8f0b77067",
+      "localPath": "/menu/dolny-stal/647feb5a17d01ca275e3da9d.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 60138,
+      "sha256": "f00889f8e33db13b6a1fe8390a7f3b2bb4d838ddf62ab48535a1165698f8cbdf",
+      "sourceSha256": "2de6875a7f13164eac1fe5e5531fe2252e40dc09ca8974e529f0f83ca957f205"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7da7036cbdf8f0b7707e",
+      "localPath": "/menu/dolny-stal/1b5ae94758e1ed7d320ae7dc.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 35470,
+      "sha256": "d8e68f2dae80dd93e4e4ddeb6b3f42d02952e1868ca78107e330fbaba8380240",
+      "sourceSha256": "cb9d8d85043d134d89091277a36798b20bb33560fd98754531f1d97898f3a288"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7dd0036cbdf8f0b77090",
+      "localPath": "/menu/dolny-stal/a21ce5bcd496ae51bd4477d5.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 29212,
+      "sha256": "c4fc50109ec6fa1ef2265755cf3653ba6514a1523058a83e120f53c7b9c7afde",
+      "sourceSha256": "d022f7477413bfe8af13d615fc93e6acd8d682cc06fd56c5fb312b2f398108b5"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7def69da161c0fd83447",
+      "localPath": "/menu/dolny-stal/cf77d450980b18af32a00907.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 37838,
+      "sha256": "e2e6441ef88d4229bd9c4a27e29fd1b17b98ee6f774597a550ff03f4b7675231",
+      "sourceSha256": "0206f56bcc804ee28fa4c038502005b4a18e7b5fe088be771332d3ba4b331696"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7f0a0f23d310be11e62f",
+      "localPath": "/menu/dolny-stal/8049c432aa2142fb7acc9996.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 9652,
+      "sha256": "30ebc54ee6dc22ee663c3030114466a7491b27540f268c5bf416643eb7a6dc55",
+      "sourceSha256": "9d1ec9ca93b6eede09aabece9718ad302c194b1f56d12d313e3d006cf9d27a5e"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7f0a0f23d310be11e630",
+      "localPath": "/menu/dolny-stal/ec8e1c3499ddb44c8c51820b.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 10534,
+      "sha256": "2a327b7ee5e2d2e3fdbd7b69cf86a03bffd072da979e51fb1e56eb96f25a57a2",
+      "sourceSha256": "cff2e8f329f2daf684b27ef61614ed9fb953dc45b4dc994031cce5d3d40f3374"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7f0a0f23d310be11e631",
+      "localPath": "/menu/dolny-stal/ec564804d076d0af8f335164.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 10586,
+      "sha256": "41a23747caa66b3ccc2baf6107e49cfe3314b4485587c9fa882e33563dfbca5f",
+      "sourceSha256": "f6f38dad1a1434af7b198b5e4affb4fbf4a1331ce46257d43274e069c793e89a"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7f0a0f23d310be11e632",
+      "localPath": "/menu/dolny-stal/af2f99cd1a6f9a6ae462fca4.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 9820,
+      "sha256": "7d2105c1793889e56101fa4b81a60f7599f152f067ed557b530cad8746e6005a",
+      "sourceSha256": "f1ab0a33c74dd2751d180e3a751cb7fe1771f1d0e4447776bbb719d533c333aa"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7f0a0f23d310be11e633",
+      "localPath": "/menu/dolny-stal/af4f2075793f2f64a979118d.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 9430,
+      "sha256": "73e29da16334649fa0c3e3526fcc3fdd6789e5975eaf02a7137adc60bfbe7ab4",
+      "sourceSha256": "9e112c08f04b6426d4520502cbdecf36636d828e20e1e3d89e10f0e68b7b232f"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7f0a0f23d310be11e634",
+      "localPath": "/menu/dolny-stal/bab2b579a0661022654fb341.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 9144,
+      "sha256": "33d7ca6131d74f99e4a8c62a5212e19f28f4c7edfd691b12eb04755e238f7ff3",
+      "sourceSha256": "e041f05c8d7591fa4307aa17b4dd40fe7ffd8c05b2e6b8da9a5065afa5a8aa5a"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7f0a0f23d310be11e635",
+      "localPath": "/menu/dolny-stal/3765925785b8cc0acd5a4853.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 11172,
+      "sha256": "6ac55457952b13096f81c26bab08d3b94ada4ec1da597557794e4049ad95117d",
+      "sourceSha256": "9918c5cfe56d32c61cb8a1b5a4c98736541a1fe25e3c9adeebd4b7f880b139da"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f7f0a0f23d310be11e636",
+      "localPath": "/menu/dolny-stal/1b7b5d0c17f51e74df4ce606.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 11084,
+      "sha256": "65c3a5bdd810bad3fb6a58b77236ed00eab451ec37a0224460ccef8371291a8e",
+      "sourceSha256": "36b32a7e44c185e4b0603e6eb426223173d08b0d7f6b05348a3c8c9af2995ad4"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f81b5a8528f0c158f1291",
+      "localPath": "/menu/dolny-stal/24d888bd5637b87b2e06adbf.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 7006,
+      "sha256": "6dac71e3cdb9dc58ef2039517ca0649f79ae1703017cb705cac8194d7342e5ce",
+      "sourceSha256": "270419f4f1fe692d3f88066fb7478c3d98385e90b2133a571e50347798c238d8"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f81b5a8528f0c158f1292",
+      "localPath": "/menu/dolny-stal/c2d06a5aac9a5de784481b3a.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 18404,
+      "sha256": "acb244eee12ae73cb0489056b214c2a18017f2c0cae9f2121de5af6e6f911a81",
+      "sourceSha256": "2e7c82e1937f41a690fb1a250413a95fe0762c09076efdb506a495e79be95f5e"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f81b5a8528f0c158f1293",
+      "localPath": "/menu/dolny-stal/246092d03105ced1b8a36f26.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 19934,
+      "sha256": "35da0e227dae124c9959367db5e735728aac07b6ebb7703a932ae2c95303636b",
+      "sourceSha256": "b47f79936ed5ff2d2131e28d3b133dd6cbd87d69773d4445fed9bf7c39f8d82b"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f81b5a8528f0c158f1294",
+      "localPath": "/menu/dolny-stal/f0fb121405df027b20076aa0.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 10438,
+      "sha256": "3defd6ad886bea144a4f0792444591f5184f0feea3794f27b0c4213f2501dcb4",
+      "sourceSha256": "dc78914c757008976cca5723698293b3712e59c225763006c7dda7f51997e56e"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f81b5a8528f0c158f1295",
+      "localPath": "/menu/dolny-stal/1672911b2db07b3957d990a5.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 12406,
+      "sha256": "f42b57543c83f0724d51c712666581b304e2cb259983008fb9919f1976b81ab1",
+      "sourceSha256": "bf10dce0da867b483b7c29c5fdbc394907271cf576cae34dbdb678e26275bbf0"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f81b5a8528f0c158f1296",
+      "localPath": "/menu/dolny-stal/4e7c764ec103e3f27af10b24.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 15676,
+      "sha256": "2c690d879a6640721134dbb06e753a76e52ab31d47532d0ff78faec3c7b58ac8",
+      "sourceSha256": "5c4d9d6bbb838fd2af6a6a747f3d9102c0f529665d46e414bbfd76cf1ab9a61f"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f81b5a8528f0c158f1297",
+      "localPath": "/menu/dolny-stal/99a1f04794ca30ac8e83498f.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 13018,
+      "sha256": "b89ba1ef984ed8b515516e5cb57f897b8cbb5a6ea2c4e971dae4f831d4d50796",
+      "sourceSha256": "9c58dca4a1af28b5e01482d2d313156200b10fdd8a6637ef1f6ba546d97fa9be"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f81b5a8528f0c158f1298",
+      "localPath": "/menu/dolny-stal/a4a6c234c414f4463ec75c15.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 20098,
+      "sha256": "0b6dc7249eff2183ad92b09d0b2232cf09ce60ac1cb8075407e474fc469f2b1f",
+      "sourceSha256": "d644c4d7fb9c123ce99c035d6521cc499ef091c4c570d5a8235ebf3684180c90"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f81b5a8528f0c158f1299",
+      "localPath": "/menu/dolny-stal/6f033d7a7168f9b911214dee.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 15168,
+      "sha256": "252ec3624ee79355dd08b28ec614f8fd08f423606c0de501c2e934506a5d62d7",
+      "sourceSha256": "1ad00ca7c3a71b4a0de99dfcf5b5deaf538c1411798b78357e525ff717e6d5d5"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f823f3f8fcc0ffc18ca93",
+      "localPath": "/menu/dolny-stal/18af7f3df4d72a6aa1f1731a.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 22670,
+      "sha256": "8562c7ee1daff543fda92d84574e2f97f0a6b76243151033872ff9e5a35b349b",
+      "sourceSha256": "cee50163d6befe30b777b3e8849127f344ea3cdb8f0089f154cd1629d9c9818f"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f823f3f8fcc0ffc18ca94",
+      "localPath": "/menu/dolny-stal/f21099ec892caad387377867.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 19480,
+      "sha256": "238d2ac08982a21f75b017cc2fc6e7d03b2e37a73f7c748d5e67d323a32a56c6",
+      "sourceSha256": "d47c535f586a8c43f8b867e8f0534feacca5ce3cca4c31949d5e2fc476d3e5bb"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f82f33f8fcc0ffc18ca96",
+      "localPath": "/menu/dolny-stal/f144d299fabc070e8daaf176.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 18604,
+      "sha256": "7864a133440211ffd11e41ed02abe038790c2aab386a25ac7c78b4276863c411",
+      "sourceSha256": "0a659dca381595e7106b7f958a1f1a528302a2a389f84a776ed21c3465c3a34d"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f82f33f8fcc0ffc18ca97",
+      "localPath": "/menu/dolny-stal/d57c1edff07c5cd4d8297993.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 21262,
+      "sha256": "85032675c8e11522535c7eef3eef3c1be468ba2694da7c319f8b865e04cc6e1f",
+      "sourceSha256": "4edf988256eaae693770054c2b19794b5cd3ecedbb5048c650e5dfeb90cc21da"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f82f33f8fcc0ffc18ca98",
+      "localPath": "/menu/dolny-stal/2e82abdc76fa8111ab3c173f.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 20064,
+      "sha256": "7bac0be4465a91a5bf2d3920ed7858472514283e0af4ba36076b51d1e43d3cd0",
+      "sourceSha256": "4ffebb13d17a00c23db42dada34c572aadbad7e73adca9ca6afc5eade4340fcf"
+    },
+    {
+      "sourceUrl": "https://imageproxy.wolt.com/assets/6a4f82f33f8fcc0ffc18ca99",
+      "localPath": "/menu/dolny-stal/67451e2b651448ab4af59c5f.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 15398,
+      "sha256": "cc0a95d29df6809a4070d004dea0eee395b8091c1222097fdfd0faef2e4e197a",
+      "sourceSha256": "8c88b95ec2a931c54fedf7f184013011316ed4fccc36fdd8e42208d9aa78887f"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Adamame-01.png",
+      "localPath": "/menu/dolny-stal/4079e3cd3cf1775bc56ea88f.webp",
+      "width": 99,
+      "height": 94,
+      "bytes": 3456,
+      "sha256": "1c5c92d8b231cfa77a23e54135e444189c7d615e5b6057bc2acd02bea3d4303b",
+      "sourceSha256": "cf1881232d445302512c9dca3bfb307e1c1e87c2fca5acb485c32da593684026"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-1-3-1.png",
+      "localPath": "/menu/dolny-stal/90464c38f077d10ec83f57a9.webp",
+      "width": 205,
+      "height": 197,
+      "bytes": 12532,
+      "sha256": "7e437d13728db09d1deffc95ece556b9fdd07efc592956d7fef460ad9ac83002",
+      "sourceSha256": "50e0de99b53d30bc6879c396a8267fba90ec8459b803a9fd9e37506bf594d85e"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-1-5-1.png",
+      "localPath": "/menu/dolny-stal/e95407758af829cbd2966a61.webp",
+      "width": 286,
+      "height": 193,
+      "bytes": 11774,
+      "sha256": "5e4f2ca563ef19003f7138b6e6558db44abe9c9139c3fbad15a0531287c874e4",
+      "sourceSha256": "e83ce59f5ce2be59d9f37a0600ec58ee099a18cd875a9de36b2faa04f29baaf3"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-1@3x-1-1.png",
+      "localPath": "/menu/dolny-stal/ae46052a238e9b5e65d82f6b.webp",
+      "width": 587,
+      "height": 589,
+      "bytes": 66454,
+      "sha256": "b6c2da6aa23e0e93c8e0ed3813ca1ef7d44f2c52ce35457907206d0be92bbb3a",
+      "sourceSha256": "9741d411df76da9f96beb13ee077264e8f2cd81954b8d48761b85ec278a2f310"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-1@3x-2-1.png",
+      "localPath": "/menu/dolny-stal/3ed819c84a5db8f4737f12e7.webp",
+      "width": 239,
+      "height": 180,
+      "bytes": 15378,
+      "sha256": "23f5a14b30a1364683f2787c3798d6d7170640be73664339a5cca9fd72131a6b",
+      "sourceSha256": "4cba8a14c98fe1b614d8214e031f1cf15190fc7395823b8adb400c39a0ba50ba"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-1@3x-3.png",
+      "localPath": "/menu/dolny-stal/d5bb0bb3e2407962f551e587.webp",
+      "width": 62,
+      "height": 108,
+      "bytes": 1808,
+      "sha256": "afdbeef8e8247e6b33bd30c1a1d6710e105ad2784bd0643a0fc87e090088486c",
+      "sourceSha256": "402db9f762cf73e8d12f54d730f3100de5e9f77ee90d6e1f6639626692379a6d"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-1@3x-4-300x289-1.png",
+      "localPath": "/menu/dolny-stal/1b8792c59f7db6be5caff0dc.webp",
+      "width": 300,
+      "height": 289,
+      "bytes": 23138,
+      "sha256": "6d5c6af55e3b8e8feeaaf975f62fe69b12b75957b22db9ef9c305f6867f6b86d",
+      "sourceSha256": "389a70d159a06f37f9577551ccaf8bb1074ee0dabb4fe560a54842faf1012181"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-1@3x-5-300x279-1.png",
+      "localPath": "/menu/dolny-stal/b750bc7b96567bf950f2d494.webp",
+      "width": 300,
+      "height": 279,
+      "bytes": 11620,
+      "sha256": "cfc974d2c7cbb9017f7bd7168f36e001e862c44e55875756d53beee661bc51d7",
+      "sourceSha256": "bdeaaac56b310632f37e3c1b373aa181433a770dd5bf89098a82bc07f459386c"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-10@3x-1.png",
+      "localPath": "/menu/dolny-stal/800f821c1f58db96b16ee245.webp",
+      "width": 245,
+      "height": 174,
+      "bytes": 14140,
+      "sha256": "62bf0f330dd2e4978afd4d02d3f4a032f78153ed09a6d55169cffa8ba222581f",
+      "sourceSha256": "cd99b96af3091c4c686820049fdef0c506371ee910c76ff149331dacb321932a"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-2-2-300x153-1.png",
+      "localPath": "/menu/dolny-stal/0489bc295d07c8519b1f7db9.webp",
+      "width": 300,
+      "height": 153,
+      "bytes": 8334,
+      "sha256": "dbd586d60f1ee211bdb32cfc2ba34295db2234a265719a909358262bd4309319",
+      "sourceSha256": "68b5e599e9955513992bd701681e941b4cdc0c7554d0ca314174c08d731c516e"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-2-3-1.png",
+      "localPath": "/menu/dolny-stal/c8fbb1191661a788f5406519.webp",
+      "width": 291,
+      "height": 287,
+      "bytes": 27136,
+      "sha256": "afb959c1eafb2947bdafc59d22f94e39ace8ee15eab62e1cc206fc891659a0cf",
+      "sourceSha256": "cb3632fd2e74323f45332f5e23c29a6272971d2c7643c63f0a8174fb140ff0db"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-2@3x-2-1.png",
+      "localPath": "/menu/dolny-stal/86a21e6af59474eaec324491.webp",
+      "width": 258,
+      "height": 185,
+      "bytes": 17106,
+      "sha256": "2f3b0a32293e39e2aff96eb4ef3a00a500dc97188ce951bd0bc412cc1348afe1",
+      "sourceSha256": "5687b369f73f2cb6ce19fc84b887a5691cf8f2e822c936d40fcdb0a0eeca9c45"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-2@3x-3-1.png",
+      "localPath": "/menu/dolny-stal/6e2d9a8f28597c7e706fda83.webp",
+      "width": 249,
+      "height": 180,
+      "bytes": 15960,
+      "sha256": "3d3514c49f59b12f87c534de10beb53c5ca228172f1b58d42d3091b3e4f56f36",
+      "sourceSha256": "93216deba3c822dcaef12ebd98278b2dc7a5a3861dc7e02d247f87cb23162f6c"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-2@3x-4-1-1.png",
+      "localPath": "/menu/dolny-stal/10edae18d8719e2055e3cdb1.webp",
+      "width": 271,
+      "height": 222,
+      "bytes": 18886,
+      "sha256": "03eb4a21e09afcc22d7efc183d00163f52e1ef6c44c217993f4f468daf634f9a",
+      "sourceSha256": "5af38e8246db1721041e8a66783948f3de4d71376f0d10b3b1f6d0e80b307c29"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-2@3x-4-1.png",
+      "localPath": "/menu/dolny-stal/10cbfb25720d137059884726.webp",
+      "width": 271,
+      "height": 222,
+      "bytes": 18886,
+      "sha256": "03eb4a21e09afcc22d7efc183d00163f52e1ef6c44c217993f4f468daf634f9a",
+      "sourceSha256": "5af38e8246db1721041e8a66783948f3de4d71376f0d10b3b1f6d0e80b307c29"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-2@3x-5-300x294-1.png",
+      "localPath": "/menu/dolny-stal/874378288079459d60a7bf76.webp",
+      "width": 300,
+      "height": 294,
+      "bytes": 21582,
+      "sha256": "09d297b5e770ce1028f10eb308376d3f8ebccfd54db7ebf170e0651fab12bf2a",
+      "sourceSha256": "2ddece575c72411f928bef1929a007d412c11f3fc3df7810d0fa05fb36b0fbed"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-2@3x-6-300x292-1.png",
+      "localPath": "/menu/dolny-stal/411e53b56a379a54362fe532.webp",
+      "width": 300,
+      "height": 292,
+      "bytes": 18796,
+      "sha256": "41466151c430a7d551be2437cc253c7242bf0ccaa3380d2ff01f69d41cb520d9",
+      "sourceSha256": "21562fd5b4e2627af4eb2e2cd460464fee19c39f3005927446b1edaa2c8d35fb"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-2@3x-7.png",
+      "localPath": "/menu/dolny-stal/07ec0c214f289a45529908fa.webp",
+      "width": 56,
+      "height": 106,
+      "bytes": 1948,
+      "sha256": "e2be48547f42da982a5f4335aad6471a7c361cf399b8baf2897a011d4e5cb8b1",
+      "sourceSha256": "22ff9c9df0294b888ef405efbb3a0c7705b4f5b5a3ea9504633003cf21364c38"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-21@3x-1.png",
+      "localPath": "/menu/dolny-stal/55f784de0ff26e95f5796e35.webp",
+      "width": 54,
+      "height": 111,
+      "bytes": 1814,
+      "sha256": "34915da47d059657e72177a7cffbd931034b68e153c9175c000c4856b64b63f1",
+      "sourceSha256": "0d5124ec67ce464b4a53f43d8bf48cfd827dcd331e5093d36f774cca87320510"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-23@3x-1.png",
+      "localPath": "/menu/dolny-stal/b96e4828b40515e2ffb8cfd9.webp",
+      "width": 42,
+      "height": 97,
+      "bytes": 2010,
+      "sha256": "c6ae03737991bee8ff50a14b1c0f8ff39f24e1f286c2b41c358f7b4feb9a57ed",
+      "sourceSha256": "63122c2e2f2b15885d66c5b9334f4576136524869d461ecdbfc2c028950dbe0a"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-24@3x-1.png",
+      "localPath": "/menu/dolny-stal/1b7ee0a426904383dc6d269b.webp",
+      "width": 46,
+      "height": 103,
+      "bytes": 1914,
+      "sha256": "d820d175424af64ae1d3d0d92151db3f9efa75b4e1d873c21a526003ff60d60c",
+      "sourceSha256": "e2e2278a0a263cd58a00e787ad572f69dafd0dfb1bc7f60194a201df96709787"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-25@3x-1.png",
+      "localPath": "/menu/dolny-stal/1995d92d65d177c0bb5b8c4a.webp",
+      "width": 39,
+      "height": 69,
+      "bytes": 1584,
+      "sha256": "03fdbabc745b9eb05692fef96b79e5e293b4a3f79e38fe5abb74e9e353dfd28d",
+      "sourceSha256": "e1b5e0d4392b311ba8d95c34e0b50d5aba7d7eb3198fcbf92bcc240019e7d6d5"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-26@3x-1.png",
+      "localPath": "/menu/dolny-stal/19f738fda0d2296e830b8f4f.webp",
+      "width": 47,
+      "height": 104,
+      "bytes": 2334,
+      "sha256": "c72faf2b4a3119e6248860580a163bf6d75ed459e5605e60949c6649ca7002ee",
+      "sourceSha256": "4d4082fd183b441145c0cb5fd9615f1dc88cf6536e204e694d9e6afb84604bd3"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-27@3x-1.png",
+      "localPath": "/menu/dolny-stal/3e6beb8b15af693589a0095d.webp",
+      "width": 34,
+      "height": 105,
+      "bytes": 1890,
+      "sha256": "385f7778276dde35a2f81982a88d596fea26762a199c1a2cb4157efbdbecaa8c",
+      "sourceSha256": "62dba6ad53ac025d6ce58c3574657e2193e4ff951d43b861cadd3f480db4b58f"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-28@3x-1.png",
+      "localPath": "/menu/dolny-stal/b138c45de406e38c8aaf94ff.webp",
+      "width": 34,
+      "height": 84,
+      "bytes": 1508,
+      "sha256": "c6b479be69b3de68d9d698567adac7f3617e2917ded90222ba6e67bcdad95a54",
+      "sourceSha256": "9681750a52db2d21f53f0544f4ad39bb242efbd821c0665de7a8a0c3717c97be"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-29@3x-1.png",
+      "localPath": "/menu/dolny-stal/b49ee211ea4d30d6404b0dd2.webp",
+      "width": 33,
+      "height": 93,
+      "bytes": 1372,
+      "sha256": "d416dfb1e81240a83eca4cc36608f7fbde9badbe21c68da580bc35405fa947f4",
+      "sourceSha256": "abdf468faea459aa09c2c0175070e90fbaa61c091c195834f1cb9f498c9658d3"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-3-1-300x292-1.png",
+      "localPath": "/menu/dolny-stal/da584448257ac4398fad84ed.webp",
+      "width": 300,
+      "height": 292,
+      "bytes": 26158,
+      "sha256": "1c9a617b73dae632919de33794386a109dc237bfdd9870513e41b4eb68106f34",
+      "sourceSha256": "903d48583f031dd63782e7b7b3ccd6e7f9dd70d8a9520863791a6ded705e6e6a"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-3-2-1.png",
+      "localPath": "/menu/dolny-stal/797179fa7366a7fe3ea09551.webp",
+      "width": 277,
+      "height": 258,
+      "bytes": 13898,
+      "sha256": "8497e6f2ac5b17a504f85966e2747963fcc50d09df1eca381cdc89d617572477",
+      "sourceSha256": "0cfd18af640b61d69db5fca0936392e0eadb8b00039d27c33a5f0679ec032469"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-3@3x-2-1.png",
+      "localPath": "/menu/dolny-stal/58c11a394fcd396982add7f9.webp",
+      "width": 257,
+      "height": 217,
+      "bytes": 15920,
+      "sha256": "d89264a829bc60fff123333664838268fc2197497c976fc456346415d012f4a1",
+      "sourceSha256": "106caa9d000e4f7e492d78fde33ddbea6fb5a9759905bfc6493cb5da37515d79"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-3@3x-3-1.png",
+      "localPath": "/menu/dolny-stal/11abcd105380be29bb6623f1.webp",
+      "width": 267,
+      "height": 221,
+      "bytes": 15576,
+      "sha256": "875f000453efc638b9d5a648542fd5bb76e6f07e018fa1948153771cbfc53af7",
+      "sourceSha256": "59453449adac726c40a31ee118f5769a7b4b29ee218ce063dc9c83a972381722"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-3@3x-5-1.png",
+      "localPath": "/menu/dolny-stal/794f65da7056b4ffc712352d.webp",
+      "width": 299,
+      "height": 287,
+      "bytes": 15180,
+      "sha256": "c59b278090eee51f9a55fe1de7b7458cda160e065651cb1fc2ef79596d4aa640",
+      "sourceSha256": "4b6d5685cab9dd402c372fc9df551ee317647e9cf7729052569f19989144b061"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-3@3x-6.png",
+      "localPath": "/menu/dolny-stal/c5420d6f31a7498bb6f6dd9c.webp",
+      "width": 59,
+      "height": 102,
+      "bytes": 1870,
+      "sha256": "0c8b7bf02dc5eee74530e75325d55c6327cd2a3eb16ed550e59ef4ded6dc4ed2",
+      "sourceSha256": "0b2681302e95f3614da44ece4364fefdaff261d8496bff8b09276130d4a7581c"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-30@3x-1.png",
+      "localPath": "/menu/dolny-stal/30b00e57c476480ca41f4428.webp",
+      "width": 67,
+      "height": 63,
+      "bytes": 1714,
+      "sha256": "87a6cc0910272630488e60c7df2452bba78c5c122bfd1500a46b9d0f1294a47a",
+      "sourceSha256": "32c5d01180d20bde25dca42b8417cb80bab33404e682d36e49bbd12812153ad0"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-31@3x-1.png",
+      "localPath": "/menu/dolny-stal/93c68303c84c1c84438c5576.webp",
+      "width": 40,
+      "height": 90,
+      "bytes": 1612,
+      "sha256": "cb5f6c866585d8f83654b4c68636c399b83ca3c57860d7aeafa1591e0be49c06",
+      "sourceSha256": "f992f5f34e82abb729bf779935e704eaf0fcc52bc52453672fb4fb47bf5a8218"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-32@3x-1.png",
+      "localPath": "/menu/dolny-stal/4ec61cdc78b8c0153b068f3b.webp",
+      "width": 70,
+      "height": 98,
+      "bytes": 2048,
+      "sha256": "6b8f7c33950c2f4dcf06337acfc478934c410b6fb30c0b8128229ee2fa1a74e0",
+      "sourceSha256": "d579ba21477e79a728374e6cfa1d1c52d692fc63318de7b3f2b9c9358fee975f"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-33@3x-1.png",
+      "localPath": "/menu/dolny-stal/f21b1de713e7eb841bb1ab4c.webp",
+      "width": 35,
+      "height": 85,
+      "bytes": 1666,
+      "sha256": "d71df2bde70e54bee4f5e256b3dc4eba520fcf8ecf0d6b8d9eb034099eea5f6e",
+      "sourceSha256": "4ddd18f414e68d3731d184683cde824fc0a1943bc94bf1666066a265593b33b0"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-34@3x-1.png",
+      "localPath": "/menu/dolny-stal/29bab210c9dab04463e564ab.webp",
+      "width": 82,
+      "height": 82,
+      "bytes": 2286,
+      "sha256": "5c09e82ef514d9b1fef620f9a8c0f297a1a1c11f96505d7c1929f4ef8998af09",
+      "sourceSha256": "03b9342008bd11c739912d67bf7021afb3f565c3fbb68330602223e6d79147ad"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-35@3x-1.png",
+      "localPath": "/menu/dolny-stal/df98a9d1361ae9def882131a.webp",
+      "width": 81,
+      "height": 70,
+      "bytes": 2194,
+      "sha256": "b593e451b979084f52e0866fa47c7ca47bae2f7ea85cb7a8f4fdf968c1b03c61",
+      "sourceSha256": "330dc64b42d06b0a3fda7009b1b2b87991ce4e7b24db8a4060a6568ed9cf3d42"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-36@3x-1.png",
+      "localPath": "/menu/dolny-stal/88359bdb14ef8e3ab32de56c.webp",
+      "width": 93,
+      "height": 75,
+      "bytes": 2036,
+      "sha256": "af545536073c7c29e4726937371b972befc6e1ba5aeaed8d27621cbd64a61124",
+      "sourceSha256": "19de85e51c33bf9a35c9112e579990909a856c24078c1473a4a38a74cc6e858e"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-37@3x-1.png",
+      "localPath": "/menu/dolny-stal/e44e156f182e773238868659.webp",
+      "width": 97,
+      "height": 71,
+      "bytes": 1762,
+      "sha256": "b36e7e62c283b3768e263fa1e0420ba528709fe86acd953934a8fe6d44bfa57b",
+      "sourceSha256": "27d54537081daba149cf40c527b6490df6142ea3f8881e90b8f8489750262444"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-38@3x-1.png",
+      "localPath": "/menu/dolny-stal/b408619ecfe1185887fc1bc2.webp",
+      "width": 109,
+      "height": 110,
+      "bytes": 2144,
+      "sha256": "05337f45f5c6b3b1fbeecf6b6f56fe82a0a240b50a37e3e5a756d15674c765ef",
+      "sourceSha256": "a3ee090bd30cb19fcbb54d17d290264b24ef8f5c40edd17164e72e69391c43b5"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-39@3x-1.png",
+      "localPath": "/menu/dolny-stal/497f46a81422891bf75483b0.webp",
+      "width": 104,
+      "height": 96,
+      "bytes": 3140,
+      "sha256": "926a562c5331c5935b4e4976949af0acbdd9be9d3a15683f482ec3cf1fd93bc8",
+      "sourceSha256": "b37f02ac40c3fe773d3181a6435b64f7f4879e5edf2056a2798f192257afd5ec"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-4-2-300x201-1.png",
+      "localPath": "/menu/dolny-stal/814400aa4f7d9d7c7a1787a8.webp",
+      "width": 300,
+      "height": 201,
+      "bytes": 10504,
+      "sha256": "adffafc453c4b4676465ac23b28e22e75609600be459b3b63b534328367455d8",
+      "sourceSha256": "917c063691028a3f9f41c86dcf09390af84e821971de0a608fb583dde04a376f"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-4@3x-1-1.png",
+      "localPath": "/menu/dolny-stal/9cfb1c218d227ca4a32ea519.webp",
+      "width": 242,
+      "height": 173,
+      "bytes": 15240,
+      "sha256": "3b17f6f5f486d217d6d9b92b8d4e07a57397a161e00b8a3826db069dcc689a31",
+      "sourceSha256": "24df8adbc48b3f8622a48911bfde3ed5eb705505b89d706423b65906b4a9d864"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-4@3x-2-1.png",
+      "localPath": "/menu/dolny-stal/36690383a01500750a6c6831.webp",
+      "width": 236,
+      "height": 203,
+      "bytes": 16130,
+      "sha256": "587ee6aa8767c1c2b344d90122d497bdee9e3c81688fac909400e4a8e99036f3",
+      "sourceSha256": "41a432152b579e554272326c7220fa33544acc1037ffd19376909b1d52959614"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-4@3x-3-1.png",
+      "localPath": "/menu/dolny-stal/0d8938526274672e0d2c4e48.webp",
+      "width": 255,
+      "height": 229,
+      "bytes": 17122,
+      "sha256": "7a53fee4e8b37b907092e01b1ed6e17084521c5c6d5e7d2a9d30136982ae801c",
+      "sourceSha256": "d7a90a3ce99b9e6f247c741f1436049b93e16ca8f0900840b51ca4c17f2171fc"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-4@3x-4.png",
+      "localPath": "/menu/dolny-stal/510e7dd010657bb256f7f2f1.webp",
+      "width": 56,
+      "height": 114,
+      "bytes": 2030,
+      "sha256": "6ea283fb7d048ee3ba6c6c1fc1fe66563408e34fd268cbc6fe00646937c89017",
+      "sourceSha256": "42daf74512a1011fd2a18768dfecc83095940bb6d5b6278b23c39a16872e3a76"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-41@3x-1.png",
+      "localPath": "/menu/dolny-stal/241ed0ab4c6ec7c4d5b62f2f.webp",
+      "width": 104,
+      "height": 81,
+      "bytes": 3504,
+      "sha256": "e20926db7b1e8587171e5a92116716574ab68f7c3fb613c44c6520973e487315",
+      "sourceSha256": "6e0bc6d6fbee895173be8402bc3d928cdfb1afdf019f441d2c8eeb74029300d6"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-42@3x-1.png",
+      "localPath": "/menu/dolny-stal/e7ff1c099f7c6726021b528c.webp",
+      "width": 52,
+      "height": 96,
+      "bytes": 1432,
+      "sha256": "107c175b3aeed22a0f959f353b59bdd308d4360c032d279b10a425c04def391e",
+      "sourceSha256": "5ef7cbbd2ff1f9dd896448f0220b3919eb98c4c98c309f9c3ce6e856cd0d5e7e"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-5@3x-1-1.png",
+      "localPath": "/menu/dolny-stal/78df506f487c215ecc6391e7.webp",
+      "width": 258,
+      "height": 194,
+      "bytes": 14516,
+      "sha256": "e9afb1e1b0408cc197cd0c0bfb336239e96561b8fb768fd269c3a6ca337c20cd",
+      "sourceSha256": "4afaaaa5c52b8d440d68278efa383788ad267302b8643ce093082a2631521752"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-5@3x-2-1.png",
+      "localPath": "/menu/dolny-stal/24c35e376f17fa8b3cc24a28.webp",
+      "width": 280,
+      "height": 238,
+      "bytes": 18706,
+      "sha256": "920fe17ab516e818525a26270fdb59cbc5452d1edfbc01aacc79d9e1ea0863aa",
+      "sourceSha256": "b61e921228c138e96f0c1285107f2483bdd0fbd532a02919604c987e8bec35f6"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-5@3x-3.png",
+      "localPath": "/menu/dolny-stal/d510417aa8e9f6663d9f2d50.webp",
+      "width": 238,
+      "height": 177,
+      "bytes": 14066,
+      "sha256": "c59795f3c097858af38ee093b182cf6b92506620025c015c9e72bb5207990882",
+      "sourceSha256": "35c5837e9e3afe96356f9bc3966559f3130bc6baebb285dead6ec79405c1d2e2"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-6@3x-1-1.png",
+      "localPath": "/menu/dolny-stal/bc557b9bd52e6db73139f847.webp",
+      "width": 257,
+      "height": 229,
+      "bytes": 17398,
+      "sha256": "c1d53c443bc97a2d5f7faff47b59576fdb2b502562e10f44a6c8c4e990d19407",
+      "sourceSha256": "970c2e98af2047cb0db2cbac0e20ba2b3735d64a0b5c7f6bffb793cc196631d4"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-6@3x-2-1.png",
+      "localPath": "/menu/dolny-stal/497452c998666c0b1221e035.webp",
+      "width": 278,
+      "height": 234,
+      "bytes": 18950,
+      "sha256": "255c50f462433f83d142834e0d15e7d64ad5c3438302a21fd3bf6c9e5fc7d978",
+      "sourceSha256": "200a972a6b60b0a8d2649c7ebe841e5072b4937f477ffd23ef104987fdfea528"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-6@3x-3.png",
+      "localPath": "/menu/dolny-stal/c46ba63fa53cf8df495718f7.webp",
+      "width": 245,
+      "height": 173,
+      "bytes": 14858,
+      "sha256": "313dd5f4dc434c2acb7796113caa134d3998e6dfb4fe59a0eb7639d3afa6b7ba",
+      "sourceSha256": "7ae412f7db6d3d54e168a1009588d3ce48556ac7118ca2339127883e95da4f99"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-7@3x-1-1.png",
+      "localPath": "/menu/dolny-stal/f4539eaf0c9b8965f61570dd.webp",
+      "width": 289,
+      "height": 245,
+      "bytes": 19792,
+      "sha256": "a5f8f6edcd6c4b8d216d37bc870e67f977153740dd888a62da24133ee12131c7",
+      "sourceSha256": "001ed0012156d000f9fabd0838153626a3b60cb90e0d7a516da47b884f2ddb4e"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-7@3x-2.png",
+      "localPath": "/menu/dolny-stal/d47a0803cf99bd78503e170b.webp",
+      "width": 247,
+      "height": 174,
+      "bytes": 15712,
+      "sha256": "3c69911713b9c73f92cdfed0db71c66d03d5c66bca2f1a1f849ea25fdf8a4c2d",
+      "sourceSha256": "dc2f42e31dba53bb5cdf674e72175353a3615564cc0d2d66ed2b6a1bb48b5e7b"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-8@3x-1-1.png",
+      "localPath": "/menu/dolny-stal/c802557ee952e85330065470.webp",
+      "width": 259,
+      "height": 205,
+      "bytes": 16896,
+      "sha256": "777b0f61f5f5e09109774918f6895a32e85cfdf8d5c378767f81e42a1c16262c",
+      "sourceSha256": "af739634c6be13cf84834466cec880d016f430ecf06ebeb19a32cda5aa0d5dab"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-8@3x-2.png",
+      "localPath": "/menu/dolny-stal/53e6afa8a6bbc31e4fac5d96.webp",
+      "width": 245,
+      "height": 174,
+      "bytes": 15922,
+      "sha256": "f372746990c548d6b168e7aca39dbd7cfda806e59e495cac243fb9c58e577dc8",
+      "sourceSha256": "32e309e57562dbb1930fd8c13fecfacde5d360f31e3aa3f90355aad9360d46ef"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Asset-9@3x-1.png",
+      "localPath": "/menu/dolny-stal/d72d3ad8e60882bc729e699c.webp",
+      "width": 245,
+      "height": 177,
+      "bytes": 15632,
+      "sha256": "e16eccb84c4f2bcf8a4f04cba0099dbdc9f5fb82da756e9cb38e7fa316cd49e9",
+      "sourceSha256": "7e8672aba22b4cb0bc6f24c4c78e47edc5e87ff344b4d7928521964fff5cc32f"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/DSC_5148.webp",
+      "localPath": "/menu/dolny-stal/62af5095707d21e4d161d30a.webp",
+      "width": 200,
+      "height": 191,
+      "bytes": 5660,
+      "sha256": "7f440eef302963cbd960fa8c45e5bc64190590d260d57d11c307513f07573e99",
+      "sourceSha256": "6919c4ded43e08e061d577a51a9e2daaeb9a16aca60c9170d355ebd1af687f07"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/DSC_5152-1.webp",
+      "localPath": "/menu/dolny-stal/0d2c072e57d6d08e89f06c96.webp",
+      "width": 136,
+      "height": 200,
+      "bytes": 3188,
+      "sha256": "411b9fed4c5f54c6e2548d7f531ac4a8b83deb2ca8b8f8551faca70337d18b33",
+      "sourceSha256": "bb5e79297db70ff491878a541eef54bb61bd3ef2904da00b3aed4316f73ca416"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/DSC_5152.webp",
+      "localPath": "/menu/dolny-stal/3ca274aed5b9e139f3290904.webp",
+      "width": 136,
+      "height": 200,
+      "bytes": 3188,
+      "sha256": "411b9fed4c5f54c6e2548d7f531ac4a8b83deb2ca8b8f8551faca70337d18b33",
+      "sourceSha256": "bb5e79297db70ff491878a541eef54bb61bd3ef2904da00b3aed4316f73ca416"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/DSC_5164.webp",
+      "localPath": "/menu/dolny-stal/f7f234ea5794b2c60ec1809b.webp",
+      "width": 200,
+      "height": 116,
+      "bytes": 8114,
+      "sha256": "4aa09840da8b9c0ae1f5123d938dba06f6731491adf3aa8e9509530429cbb09e",
+      "sourceSha256": "4d5d1b97f3de27499d3dc2effd1926c57bac9b0914b7bdf62fb98f661d8fae9e"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/DSC_5167.webp",
+      "localPath": "/menu/dolny-stal/8c468cc404d7e9a544e4faa8.webp",
+      "width": 200,
+      "height": 194,
+      "bytes": 6764,
+      "sha256": "1877df2150f7afea9c99078866d1752201862464d4298747438428743d8b56a0",
+      "sourceSha256": "5a7ffd53aaddbf0c6ee3853a49aa010b8e3a55fd39c3f2a0a6ce7803da7375ea"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/DSC_5168.webp",
+      "localPath": "/menu/dolny-stal/de3f581e37f67c173d89500b.webp",
+      "width": 200,
+      "height": 200,
+      "bytes": 8900,
+      "sha256": "e178e0a555cdb481841173781889e678b9f6c88ef92aae7495b031a94287fbb5",
+      "sourceSha256": "f186e2c0adb123a5b19f349e2795779132adf97f09878c4d8eb8aa6e12c8832d"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/DSC_5184.webp",
+      "localPath": "/menu/dolny-stal/350ce998a9d449b7078e5e22.webp",
+      "width": 200,
+      "height": 116,
+      "bytes": 7730,
+      "sha256": "8e025e8b84ca87e57493f49507ba82b0c3c71b77c00d1013c298c08c3d4608e6",
+      "sourceSha256": "24cec557cf9c3e99a424c67a290f5ecd4e04cb2cb60726f03fdc136c94593bac"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/DSC_5232.webp",
+      "localPath": "/menu/dolny-stal/91f21ab666830b0291add18a.webp",
+      "width": 200,
+      "height": 198,
+      "bytes": 10146,
+      "sha256": "b331d11321545b2834ee0525eb00083b1316d62013469a538d63a557dfb0e2cc",
+      "sourceSha256": "0444acc6e9a519e89a2e6ba8462f030c694143964b4952240151181cf34c0d21"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/DSC_5241.webp",
+      "localPath": "/menu/dolny-stal/0f99fa0090089a194cbee3dc.webp",
+      "width": 200,
+      "height": 197,
+      "bytes": 7366,
+      "sha256": "d6863c955095eacaf8344e812d6e50b53c538f231d687e60023802a51f84c668",
+      "sourceSha256": "fd8f10a877dc2fa8622e8b29ab5360ecfaffb0c2469f90594d3d331cc978091e"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/DSC_5286.webp",
+      "localPath": "/menu/dolny-stal/7ef729625d4a2289de7db95d.webp",
+      "width": 200,
+      "height": 200,
+      "bytes": 5864,
+      "sha256": "48c3b76b646da2a190a71fa45c16f10484c604702e08704a03685b7de41a6514",
+      "sourceSha256": "9953503603294bd5d3bb5666e2b6d53c457855e0e927a03a1c6cbd6791c1e1f5"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/DSC_5304.webp",
+      "localPath": "/menu/dolny-stal/5a76885ffb691c231dd2560f.webp",
+      "width": 200,
+      "height": 200,
+      "bytes": 4960,
+      "sha256": "3e05c32ac23d96f2ff3808f11f3f4cc061435b76d102f450f4be7be104bc7c68",
+      "sourceSha256": "79ebe6864139e8c8cb86143424f8cdb73676cffa48ee622b69a735956ea2c5fd"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/DSC_5309.webp",
+      "localPath": "/menu/dolny-stal/ae834253878fd92a87d74d47.webp",
+      "width": 200,
+      "height": 200,
+      "bytes": 6442,
+      "sha256": "8426e0e2d6621a7aa23dc00dd821357d2256d87e752285d6a411f1d444e3c552",
+      "sourceSha256": "a9eafbc326e74466bea05e096e1b61d6188929b4371ea12328eaa847b12945ad"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/DSC_5323.webp",
+      "localPath": "/menu/dolny-stal/34c8949b32cc738a998b23c2.webp",
+      "width": 200,
+      "height": 155,
+      "bytes": 3946,
+      "sha256": "080a6e5e1e239da3b3b07afa875ce3cd95b16811bc330dcf026b84177a487875",
+      "sourceSha256": "bdfa10b6b09e300dcd8d881419f78271942682881923993ac846e24b76f109a2"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/DSC_5329.webp",
+      "localPath": "/menu/dolny-stal/c998bca295fa6a9545fae547.webp",
+      "width": 200,
+      "height": 200,
+      "bytes": 6038,
+      "sha256": "1dbd08a7d91a8b3973836107e697eb2793bb654f2252b0fffcea17c5ac9d4207",
+      "sourceSha256": "4041f56792df05b415b7d3a2b8a558bc60b63cbc5e640277c1d8c258813edffc"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/DSC_5333.webp",
+      "localPath": "/menu/dolny-stal/da4b699014998c67702ae2d3.webp",
+      "width": 200,
+      "height": 200,
+      "bytes": 6964,
+      "sha256": "946a1587b35588cc33cdbff02ffd504ca2aec523183c9be8023db8c007db6667",
+      "sourceSha256": "43545bc0c1636dbddd7f14add6f1031b1fd998b0642ababb2c0513ee03394ae4"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/DSC_5348.webp",
+      "localPath": "/menu/dolny-stal/a78c653b9f2433d11f3aa1b6.webp",
+      "width": 200,
+      "height": 200,
+      "bytes": 6694,
+      "sha256": "0c70d77f7887c2ac72202857cdf2a4752dff00f3f230092a2c2cf99d7bb2f3e7",
+      "sourceSha256": "2b01e9bf7fbc54feae70a0a008cf209c79c0fc3caefdfcebfadc549efc98e6a6"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/DSC_5349.webp",
+      "localPath": "/menu/dolny-stal/17bdd835b86e58b31a9bd729.webp",
+      "width": 200,
+      "height": 200,
+      "bytes": 5634,
+      "sha256": "8e266a41d0a3eb0142b957a90715fa64cd125b0a98b3f82ed678ab3bc6076a86",
+      "sourceSha256": "7623d01e4864811275b3ecdc9928dfa1185027f198c2823132e98d8c1a797087"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Fujiayama-Set-Menu-1.png",
+      "localPath": "/menu/dolny-stal/b95506ff9475451442840367.webp",
+      "width": 262,
+      "height": 160,
+      "bytes": 11784,
+      "sha256": "d5118b377576821489ee5fc4a666c434bf67de3ee732215c85922945de548241",
+      "sourceSha256": "651140fdd6d5fae77790b97baee1a4a169e84e4f06e9e0de714cb1288fe01aa6"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Hamanishi-Menu-1.png",
+      "localPath": "/menu/dolny-stal/d5b33fc633baaadecef2cfee.webp",
+      "width": 276,
+      "height": 160,
+      "bytes": 11624,
+      "sha256": "c4c59942fb76f9781eb566c06a1e934670d7740ca95a4d42bdfb027706dfbe9a",
+      "sourceSha256": "cabe5cfc24068b1dad73f3e2f6156a26e2cacfd066e6de24c649f8184f65e1ac"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Nigiri-Set-Menu-16ks-1-1.png",
+      "localPath": "/menu/dolny-stal/aaa9b27eb70a2accf7ea63f1.webp",
+      "width": 270,
+      "height": 179,
+      "bytes": 6106,
+      "sha256": "057cd3aa723531624c630873046a4a761942a80ffd4efefb5d75ca2d0ffcbbf2",
+      "sourceSha256": "9704841179021009bbaca2b99ffc0287e6f89ab894050a51b1d8d4e193be6a2e"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Okinawa-Menu-300x175-1.png",
+      "localPath": "/menu/dolny-stal/8dbd4a49b72877238281bbc5.webp",
+      "width": 300,
+      "height": 175,
+      "bytes": 13028,
+      "sha256": "e96098930029ff93fb42eb34ea89e75f73a9af4bab5bd42ebac2bfb23ad31e7d",
+      "sourceSha256": "016cd273798ee30e232f6bc0aeef08a5c21efc2e35912b3bd18ae1e6671072c9"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Philadelphia-Menu-300x175-1.png",
+      "localPath": "/menu/dolny-stal/11932f692459de0fd2973c9b.webp",
+      "width": 300,
+      "height": 175,
+      "bytes": 10196,
+      "sha256": "1abc066cf8ae460d11a7571dc3d43a2a24a41c2b0bcae5fe3af301529c0349da",
+      "sourceSha256": "828ff3a8eb3c66ad47757a729f757ac8c3bac1c78ee3ba2becdf555ec53fc4a5"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Sakura-Menu-4450-1.png",
+      "localPath": "/menu/dolny-stal/b3e7aef35b03180a5cafd292.webp",
+      "width": 185,
+      "height": 185,
+      "bytes": 15830,
+      "sha256": "20135daeae84e601cc4aea12c373ec848a6448af2203a8173cceb8e074bf7799",
+      "sourceSha256": "ea2164ff9ac8fe4c47761ddc8f790160149f890557de1f61dfc4d0de88145992"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/sushi8-1.png",
+      "localPath": "/menu/dolny-stal/d2aa8b26dc2fa954a26f12a5.webp",
+      "width": 190,
+      "height": 116,
+      "bytes": 6056,
+      "sha256": "80ac8dfb06da9adec56ee1f936d1194c85ce4a86ce5dfe6b92b6401cd9bc45ae",
+      "sourceSha256": "735beb2ccda7144788bdaf162d43966ea80c8f3c5512a7166552932c4cb9f9ad"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Tokyo-Menu-1.png",
+      "localPath": "/menu/dolny-stal/2670c0478ad2b6aa8349e92c.webp",
+      "width": 215,
+      "height": 215,
+      "bytes": 18190,
+      "sha256": "be7bb3a5a575dfca69c0050503780025841616b7a3836a39eccfc342cf436866",
+      "sourceSha256": "361fc927fb8c40f4cfda90accd0ff0c78dc10a0045d493b3a3f230c762cc24f1"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Vegan-Set-Maki-32ks-1.png",
+      "localPath": "/menu/dolny-stal/c72e3b167bd7261434f7b6f9.webp",
+      "width": 247,
+      "height": 182,
+      "bytes": 14422,
+      "sha256": "419104dd46b7e523baef38d9752562fe73f390ddea0198b039a3c2ae139722e3",
+      "sourceSha256": "9c4b6a5f645d214c0d1f7ee6c1551940903f660a69dc493b955a31172a3fdb5c"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/Yokohame-Menu-1.png",
+      "localPath": "/menu/dolny-stal/83a6f21dc845578a896d7328.webp",
+      "width": 236,
+      "height": 195,
+      "bytes": 16568,
+      "sha256": "cdec9580f08f1163846c0d5edb0fdca2cef216e950cc3818db030be6a9798342",
+      "sourceSha256": "2ddf0af772bce8df34aeef91f12060b7f477e797e52d5564a3e83206798bc109"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/z7977392324550_f0fa298fa84cf494ceb8fe29a4b1dd80-2-768x768.jpg",
+      "localPath": "/menu/dolny-stal/e30f5064f6181e2d06794bf9.webp",
+      "width": 768,
+      "height": 768,
+      "bytes": 40826,
+      "sha256": "8b487cfbee233f28ffe917351af562e0de97998915132a31625c3a2b09cd24cc",
+      "sourceSha256": "4fe320fa8bb79cfd436eca93c1e8eb89f27dbd7807084fcf8b9c193405fc78aa"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/z7977412763463_fda1724b9bb65388260800102fbf74d6-1-768x768.jpg",
+      "localPath": "/menu/dolny-stal/6050a3ae3ab83d9068328b40.webp",
+      "width": 768,
+      "height": 768,
+      "bytes": 41124,
+      "sha256": "c723e362bbc292143172592fef66651310c8a24b42e5be93cae16739f110368c",
+      "sourceSha256": "5934fbf5dbec19f30b9ccee6610f9c03101d4bf51a63e78cf138c84a12cbac16"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/z7977423027829_c3a9fff1e225a5144369f440342657e9-1-768x768.jpg",
+      "localPath": "/menu/dolny-stal/09fec4968245a2919ca6c833.webp",
+      "width": 768,
+      "height": 768,
+      "bytes": 52066,
+      "sha256": "35339a0a6f576c84348c3e94fc6555429701aadc46d16560607b5f75a5deb5cf",
+      "sourceSha256": "b049bbba8d20d6e7faac79f99380014ef8d57b714abbfc92d4bfd98d6a81f4ea"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/z7977427200564_bffc48e171f19209958909f44b311c4e-1-768x768.jpg",
+      "localPath": "/menu/dolny-stal/e28783b1bcc198f0dc5ddbd8.webp",
+      "width": 768,
+      "height": 768,
+      "bytes": 43894,
+      "sha256": "7db8e3c18c83bca4f9e6aca12c45729b601c8bfc8980e61ceac993ad6e47a860",
+      "sourceSha256": "331a67e266a9c11d9826b2b1398b3b32585f4dfbae85d9702ed135bfab9b3bcf"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/z7977430445686_c8fe56c5da50936092ae3b521bc344b5-1-768x768.jpg",
+      "localPath": "/menu/dolny-stal/006cde95d1439add02e23d97.webp",
+      "width": 768,
+      "height": 768,
+      "bytes": 56332,
+      "sha256": "6a9657aa8c2df01d7554e7f895dea5a6b45b6c7ee5d7113a6d51bd928370bc74",
+      "sourceSha256": "7a82cc49bbf5e6e91149b07e2f6b9795fe854e2b3886a4648ea6c3094a4b1212"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/z7977434820004_a6184b3dbec52d86c79e390251505bc3-1-768x768.jpg",
+      "localPath": "/menu/dolny-stal/0b2069b7ab7f9b04e353595b.webp",
+      "width": 768,
+      "height": 768,
+      "bytes": 38988,
+      "sha256": "ed2ee46b77751da6b757dd4adbb9d8c11745d460d0c6df968eaed337b7396dbe",
+      "sourceSha256": "86277928471b06a7c8edea0adda3374678b14d6c7fb4f867183d5a5153f20de2"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/z7977439787400_9705ea5bc99d5df08453dce0443a7dc3-768x768.jpg",
+      "localPath": "/menu/dolny-stal/4802d5bb2c532a3a71bf4c34.webp",
+      "width": 768,
+      "height": 768,
+      "bytes": 44944,
+      "sha256": "3952e73cafdd9a20d98da31f37840d0eb8b98e2b3065755c3a9d797e1611bb68",
+      "sourceSha256": "0f5e6007f1e004760e6f338dd3b5280a976eb53cc9d41ac5d24a6db4f2fb493b"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/z7977443581495_4fa2a727721eb19b9e08c29bf9e6abce-768x768.jpg",
+      "localPath": "/menu/dolny-stal/39d48c94ce3021635f6fa168.webp",
+      "width": 768,
+      "height": 768,
+      "bytes": 39962,
+      "sha256": "2c66b963f4cc8e4234034a3cb278cece90a257a26430c0855831cd2c71b6225f",
+      "sourceSha256": "28ae41422e721066fd63a7f92cbae1be342959964a03c590b3110c68075ef88f"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/z7977445777336_358c658a7d6db1bf312561ca21663c88-768x768.jpg",
+      "localPath": "/menu/dolny-stal/b1901adb2544c6bd4ae294fc.webp",
+      "width": 768,
+      "height": 768,
+      "bytes": 58184,
+      "sha256": "b0e8a3775438439b878f78da5fe58b962a13329f8d5e89166d24e0cdde80fb1b",
+      "sourceSha256": "1543ea66d6dbeb4840156a372b2c1ad1ed7753b5d80408202992ab974f7ced80"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/06/z7977451538271_729c4da584250cdae6bf70b899c40cf5-768x768.jpg",
+      "localPath": "/menu/dolny-stal/666eb610fbb802bdb1373a6f.webp",
+      "width": 768,
+      "height": 768,
+      "bytes": 49988,
+      "sha256": "913fed91e0682ef3dc44f2c24c977edb176237572a55cb4915f2536ad71f5187",
+      "sourceSha256": "4bb4dbdc345e0db0411e0c2d11e47a1cbbd61f57e2bb84ea67bcb00c88ab4e1f"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/08/1786511151073_6542247482071169903_6542247482071169903_8e37ad3a8c712af560f6f1257471cde1-768x629.jpg",
+      "localPath": "/menu/dolny-stal/deaca24d86a1bff1996b2b9b.webp",
+      "width": 768,
+      "height": 629,
+      "bytes": 23064,
+      "sha256": "f66385c6f7c25c6371932fcaf970b6b6dab43bd49ec638df029909059791c167",
+      "sourceSha256": "43330ad5d604504a488aead1c2bec03e18ad5f3f133bd9df278c0a6ff957106d"
+    },
+    {
+      "sourceUrl": "https://vietfood.sk/wp-content/uploads/2026/08/1786511151723_6542247482071169903_6542247482071169903_4dc46a69c51d07e255e0fd6c07077c14.jpg",
+      "localPath": "/menu/dolny-stal/575ea431bf6a71a142a3d6ad.webp",
+      "width": 705,
+      "height": 612,
+      "bytes": 31948,
+      "sha256": "4851bcf0d8d77ff0b7a14f0568ca6bc5354239f49bdcf450d75b030175d82a22",
+      "sourceSha256": "24359aceb633778dc2d0b370e11ea943b7db8e711a8d0c2018cbd03d86e731e9"
+    }
+  ]
+}

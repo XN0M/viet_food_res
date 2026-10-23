@@ -1,0 +1,3545 @@
+[
+  {
+    "id": "vf-62",
+    "name": "1. Adamame (150g)",
+    "description": "",
+    "category": "PREDJEDLÁ",
+    "priceCents": 350,
+    "portion": "150g",
+    "allergens": [
+      "Údaj pôvodného menu: 4*, 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/4079e3cd3cf1775bc56ea88f.webp",
+    "sort": 0,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-3983",
+    "name": "2. Uhorkový šalát",
+    "description": "",
+    "category": "PREDJEDLÁ",
+    "priceCents": 400,
+    "portion": "",
+    "allergens": [
+      "Údaj pôvodného menu: 4*, 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/a21ce5bcd496ae51bd4477d5.webp",
+    "sort": 1,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-3984",
+    "name": "3. Kapustový šalát",
+    "description": "",
+    "category": "PREDJEDLÁ",
+    "priceCents": 300,
+    "portion": "",
+    "allergens": [
+      "Údaj pôvodného menu: 4*, 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/cf77d450980b18af32a00907.webp",
+    "sort": 2,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-3985",
+    "name": "4. Wakame šalát",
+    "description": "",
+    "category": "PREDJEDLÁ",
+    "priceCents": 450,
+    "portion": "",
+    "allergens": [
+      "Údaj pôvodného menu: 4*, 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/647feb5a17d01ca275e3da9d.webp",
+    "sort": 3,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-3986",
+    "name": "5. Mangový šalát",
+    "description": "",
+    "category": "PREDJEDLÁ",
+    "priceCents": 450,
+    "portion": "",
+    "allergens": [
+      "Údaj pôvodného menu: 4*, 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/1b5ae94758e1ed7d320ae7dc.webp",
+    "sort": 4,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-66",
+    "name": "6. Letné Závitky s Krevetami (2ks)",
+    "description": "",
+    "category": "PREDJEDLÁ",
+    "priceCents": 370,
+    "portion": "2ks",
+    "allergens": [
+      "Údaj pôvodného menu: 4*, 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/c514a21baae32e704a2093fd.webp",
+    "sort": 5,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-67",
+    "name": "7. Letné Závitky s Hövadzím mäsom (2ks)",
+    "description": "",
+    "category": "PREDJEDLÁ",
+    "priceCents": 370,
+    "portion": "2ks",
+    "allergens": [
+      "Údaj pôvodného menu: 4*, 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/1322d9ce9b596c76dddca422.webp",
+    "sort": 6,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-68",
+    "name": "8. Letné Závitky s Kuracím mäsom (2ks)",
+    "description": "",
+    "category": "PREDJEDLÁ",
+    "priceCents": 370,
+    "portion": "2ks",
+    "allergens": [
+      "Údaj pôvodného menu: 4*, 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/48bbf6fb7ef2c755965d7c82.webp",
+    "sort": 7,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-69",
+    "name": "9. Letné Závitky s Avokadóm",
+    "description": "",
+    "category": "PREDJEDLÁ",
+    "priceCents": 370,
+    "portion": "",
+    "allergens": [
+      "Údaj pôvodného menu: 4*, 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/6bacb9d62912a52f3960ec89.webp",
+    "sort": 8,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-70",
+    "name": "10. Letné Závitky s Tofu (2ks)",
+    "description": "",
+    "category": "PREDJEDLÁ",
+    "priceCents": 370,
+    "portion": "2ks",
+    "allergens": [
+      "Údaj pôvodného menu: 4*, 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/a02b5a26f8ea4df0ee19290f.webp",
+    "sort": 9,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-72",
+    "name": "11. Jarné Závitky (2ks)",
+    "description": "",
+    "category": "PREDJEDLÁ",
+    "priceCents": 370,
+    "portion": "2ks",
+    "allergens": [
+      "Údaj pôvodného menu: 4*, 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/77b467c404628e6a4a95447f.webp",
+    "sort": 10,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-4347",
+    "name": "12. Gyozý",
+    "description": "",
+    "category": "PREDJEDLÁ",
+    "priceCents": 370,
+    "portion": "",
+    "allergens": [
+      "Údaj pôvodného menu: 4*, 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/deaca24d86a1bff1996b2b9b.webp",
+    "sort": 11,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-4348",
+    "name": "13. Hakau",
+    "description": "",
+    "category": "PREDJEDLÁ",
+    "priceCents": 370,
+    "portion": "",
+    "allergens": [
+      "Údaj pôvodného menu: 4*, 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/575ea431bf6a71a142a3d6ad.webp",
+    "sort": 12,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-73",
+    "name": "14. Lososová Polievka",
+    "description": "",
+    "category": "PREDJEDLO POLIEVKA",
+    "priceCents": 200,
+    "portion": "400ml",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/62af5095707d21e4d161d30a.webp",
+    "sort": 13,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-74",
+    "name": "15. Ostrokyslá Polievka",
+    "description": "",
+    "category": "PREDJEDLO POLIEVKA",
+    "priceCents": 200,
+    "portion": "400ml",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/0f99fa0090089a194cbee3dc.webp",
+    "sort": 14,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-75",
+    "name": "16. Slepačia vývar",
+    "description": "",
+    "category": "PREDJEDLO POLIEVKA",
+    "priceCents": 170,
+    "portion": "400ml",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/8c468cc404d7e9a544e4faa8.webp",
+    "sort": 15,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-76",
+    "name": "17. Hovädzia vývar",
+    "description": "",
+    "category": "PREDJEDLO POLIEVKA",
+    "priceCents": 170,
+    "portion": "400ml",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/de3f581e37f67c173d89500b.webp",
+    "sort": 16,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-84",
+    "name": "18. Polievka s Hovädzia (phở)",
+    "description": "",
+    "category": "PHỞ",
+    "priceCents": 800,
+    "portion": "",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/ae46052a238e9b5e65d82f6b.webp",
+    "sort": 17,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-85",
+    "name": "19. Polievka s Kuracia (phở)",
+    "description": "",
+    "category": "PHỞ",
+    "priceCents": 700,
+    "portion": "",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/64f49f72534044c70c5b300d.webp",
+    "sort": 18,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-86",
+    "name": "20. Polievka s Tofu (phở)",
+    "description": "",
+    "category": "PHỞ",
+    "priceCents": 700,
+    "portion": "",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/7151f40753578a6df4942710.webp",
+    "sort": 19,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-87",
+    "name": "21. Polievka s Krevety (phở)",
+    "description": "",
+    "category": "PHỞ",
+    "priceCents": 800,
+    "portion": "",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/16435238cb17d2fb3ba0a349.webp",
+    "sort": 20,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-88",
+    "name": "22. Mix polievka (phở)",
+    "description": "",
+    "category": "PHỞ",
+    "priceCents": 800,
+    "portion": "",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/da2441febc0a9f1848e3e99c.webp",
+    "sort": 21,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-4351",
+    "name": "23. Rybacia",
+    "description": "",
+    "category": "PHỞ",
+    "priceCents": 800,
+    "portion": "",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/food-placeholder.svg",
+    "sort": 22,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-146",
+    "name": "29. Bún Bò Nam Bộ",
+    "description": "s hovädzím",
+    "category": "Bún trộn | s Varerými ryžovými rezancami",
+    "priceCents": 800,
+    "portion": "250g",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/1b8792c59f7db6be5caff0dc.webp",
+    "sort": 23,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-147",
+    "name": "30. Bún Gà Nam Bộ",
+    "description": "s Kuracím",
+    "category": "Bún trộn | s Varerými ryžovými rezancami",
+    "priceCents": 700,
+    "portion": "250g",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/8f114ad0649359537e7aa681.webp",
+    "sort": 24,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-148",
+    "name": "31. Bún Tôm Trộn",
+    "description": "s Krevetami",
+    "category": "Bún trộn | s Varerými ryžovými rezancami",
+    "priceCents": 800,
+    "portion": "250g",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/1a48be0160b1a12f271ba469.webp",
+    "sort": 25,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-149",
+    "name": "32. Bún Chả Nướng",
+    "description": "s Grilovaným Bračovým",
+    "category": "Bún trộn | s Varerými ryžovými rezancami",
+    "priceCents": 700,
+    "portion": "250g",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/54141c95e402e53d7e52afb5.webp",
+    "sort": 26,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-150",
+    "name": "33. Bún Vịt Chiên",
+    "description": "s Chrumkavou Kačicou",
+    "category": "Bún trộn | s Varerými ryžovými rezancami",
+    "priceCents": 800,
+    "portion": "250g",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/874378288079459d60a7bf76.webp",
+    "sort": 27,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-151",
+    "name": "34. Bún Gà Chiên",
+    "description": "s Chrumkavým Kuraťom",
+    "category": "Bún trộn | s Varerými ryžovými rezancami",
+    "priceCents": 700,
+    "portion": "250g",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/6e93cf8d1e87fa1d63c7380a.webp",
+    "sort": 28,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-152",
+    "name": "35. Bún Nem",
+    "description": "s Jarnými závitkami",
+    "category": "Bún trộn | s Varerými ryžovými rezancami",
+    "priceCents": 700,
+    "portion": "250g",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/f1aeb37ab7eadf41d51bb12e.webp",
+    "sort": 29,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-169",
+    "name": "36. Kari s Kuracím mäsom",
+    "description": "– s Ryžou – s Hranolkami – s Opekanými rezancami – s Tenkými rezancami – so Širokými rezancami",
+    "category": "KARI",
+    "priceCents": 700,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/91f21ab666830b0291add18a.webp",
+    "sort": 30,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "s Ryžou",
+            "priceCents": 0
+          },
+          {
+            "id": "side-2",
+            "name": "s Hranolkami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-3",
+            "name": "s Opekanými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-4",
+            "name": "s Tenkými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-5",
+            "name": "so Širokými rezancami",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-170",
+    "name": "37. Kari s Hovädzím mäsom",
+    "description": "– s Ryžou – s Hranolkami – s Opekanými rezancami – s Tenkými rezancami – so Širokými rezancami",
+    "category": "KARI",
+    "priceCents": 800,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/ac7c370ef7eb9a5c96082f00.webp",
+    "sort": 31,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "s Ryžou",
+            "priceCents": 0
+          },
+          {
+            "id": "side-2",
+            "name": "s Hranolkami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-3",
+            "name": "s Opekanými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-4",
+            "name": "s Tenkými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-5",
+            "name": "so Širokými rezancami",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-171",
+    "name": "38. Kari s Tofu",
+    "description": "– s Ryžou – s Hranolkami – s Opekanými rezancami – s Tenkými rezancami – so Širokými rezancami",
+    "category": "KARI",
+    "priceCents": 700,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/c292e50e7863750cd19e8aac.webp",
+    "sort": 32,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "s Ryžou",
+            "priceCents": 0
+          },
+          {
+            "id": "side-2",
+            "name": "s Hranolkami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-3",
+            "name": "s Opekanými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-4",
+            "name": "s Tenkými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-5",
+            "name": "so Širokými rezancami",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-172",
+    "name": "39. Kuracie Kung Pao",
+    "description": "– s Ryžou – s Hranolkami – s Opekanými rezancami – s Tenkými rezancami – so Širokými rezancami",
+    "category": "KARI",
+    "priceCents": 700,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/e28783b1bcc198f0dc5ddbd8.webp",
+    "sort": 33,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "s Ryžou",
+            "priceCents": 0
+          },
+          {
+            "id": "side-2",
+            "name": "s Hranolkami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-3",
+            "name": "s Opekanými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-4",
+            "name": "s Tenkými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-5",
+            "name": "so Širokými rezancami",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-3991",
+    "name": "40. Hovädzie Kung Pao",
+    "description": "– s Ryžou – s Hranolkami – s Opekanými rezancami – s Tenkými rezancami – so Širokými rezancami",
+    "category": "KARI",
+    "priceCents": 800,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/e28783b1bcc198f0dc5ddbd8.webp",
+    "sort": 34,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "s Ryžou",
+            "priceCents": 0
+          },
+          {
+            "id": "side-2",
+            "name": "s Hranolkami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-3",
+            "name": "s Opekanými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-4",
+            "name": "s Tenkými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-5",
+            "name": "so Širokými rezancami",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-3992",
+    "name": "41. Tofu Kung Pao",
+    "description": "– s Ryžou – s Hranolkami – s Opekanými rezancami – s Tenkými rezancami – so Širokými rezancami",
+    "category": "KARI",
+    "priceCents": 700,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/e28783b1bcc198f0dc5ddbd8.webp",
+    "sort": 35,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "s Ryžou",
+            "priceCents": 0
+          },
+          {
+            "id": "side-2",
+            "name": "s Hranolkami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-3",
+            "name": "s Opekanými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-4",
+            "name": "s Tenkými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-5",
+            "name": "so Širokými rezancami",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-187",
+    "name": "42. Kurací rezeň",
+    "description": "– s Ryžou – s Hranolkami – s Opekanými rezancami – s Tenkými rezancami – so Širokými rezancami",
+    "category": "KARI",
+    "priceCents": 800,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/a4ac1625d1a9d4279cce2c50.webp",
+    "sort": 36,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "s Ryžou",
+            "priceCents": 0
+          },
+          {
+            "id": "side-2",
+            "name": "s Hranolkami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-3",
+            "name": "s Opekanými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-4",
+            "name": "s Tenkými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-5",
+            "name": "so Širokými rezancami",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-174",
+    "name": "43. Kuracie nugetky",
+    "description": "– s Ryžou – s Hranolkami – s Opekanými rezancami – s Tenkými rezancami – so Širokými rezancami",
+    "category": "KARI",
+    "priceCents": 700,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/e30f5064f6181e2d06794bf9.webp",
+    "sort": 37,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "s Ryžou",
+            "priceCents": 0
+          },
+          {
+            "id": "side-2",
+            "name": "s Hranolkami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-3",
+            "name": "s Opekanými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-4",
+            "name": "s Tenkými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-5",
+            "name": "so Širokými rezancami",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-188",
+    "name": "44. Syr s Hranolkami",
+    "description": "– s Ryžou – s Hranolkami – s Opekanými rezancami – s Tenkými rezancami – so Širokými rezancami",
+    "category": "KARI",
+    "priceCents": 650,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/6050a3ae3ab83d9068328b40.webp",
+    "sort": 38,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "s Ryžou",
+            "priceCents": 0
+          },
+          {
+            "id": "side-2",
+            "name": "s Hranolkami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-3",
+            "name": "s Opekanými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-4",
+            "name": "s Tenkými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-5",
+            "name": "so Širokými rezancami",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-173",
+    "name": "Kurací steak",
+    "description": "– s Ryžou – s Hranolkami – s Opekanými rezancami – s Tenkými rezancami – so Širokými rezancami",
+    "category": "KARI",
+    "priceCents": 700,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/006cde95d1439add02e23d97.webp",
+    "sort": 39,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "s Ryžou",
+            "priceCents": 0
+          },
+          {
+            "id": "side-2",
+            "name": "s Hranolkami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-3",
+            "name": "s Opekanými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-4",
+            "name": "s Tenkými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-5",
+            "name": "so Širokými rezancami",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-153",
+    "name": "45. Gà Xào",
+    "description": "Restované Kuracie mäso – s Ryžou – s Hranolkami – s Opekanými rezancami – s Tenkými rezancami – so Širokými rezancami",
+    "category": "RESTOVANÉ",
+    "priceCents": 700,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 1*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/4802d5bb2c532a3a71bf4c34.webp",
+    "sort": 40,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "s Ryžou",
+            "priceCents": 0
+          },
+          {
+            "id": "side-2",
+            "name": "s Hranolkami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-3",
+            "name": "s Opekanými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-4",
+            "name": "s Tenkými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-5",
+            "name": "so Širokými rezancami",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-154",
+    "name": "Gà Xào Sả Ớt",
+    "description": "Restované Kuracie mäso s citrónovou trávou, chili – s Ryžou – s Hranolkami – s Opekanými rezancami – s Tenkými rezancami – so Širokými rezancami",
+    "category": "RESTOVANÉ",
+    "priceCents": 800,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 1*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/da584448257ac4398fad84ed.webp",
+    "sort": 41,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "s Ryžou",
+            "priceCents": 0
+          },
+          {
+            "id": "side-2",
+            "name": "s Hranolkami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-3",
+            "name": "s Opekanými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-4",
+            "name": "s Tenkými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-5",
+            "name": "so Širokými rezancami",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-155",
+    "name": "46. Bò Xào",
+    "description": "Restované Hovädzie mäso – s Ryžou – s Hranolkami – s Opekanými rezancami – s Tenkými rezancami – so Širokými rezancami",
+    "category": "RESTOVANÉ",
+    "priceCents": 800,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 1*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/39d48c94ce3021635f6fa168.webp",
+    "sort": 42,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "s Ryžou",
+            "priceCents": 0
+          },
+          {
+            "id": "side-2",
+            "name": "s Hranolkami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-3",
+            "name": "s Opekanými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-4",
+            "name": "s Tenkými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-5",
+            "name": "so Širokými rezancami",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-156",
+    "name": "Bò Xào Sả Ớt",
+    "description": "Restované Hovädzie mäso s citrónovou trávou, chili – s Ryžou – s Hranolkami – s Opekanými rezancami – s Tenkými rezancami – so Širokými rezancami",
+    "category": "RESTOVANÉ",
+    "priceCents": 900,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 1*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/816512647289faa781f67a73.webp",
+    "sort": 43,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "s Ryžou",
+            "priceCents": 0
+          },
+          {
+            "id": "side-2",
+            "name": "s Hranolkami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-3",
+            "name": "s Opekanými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-4",
+            "name": "s Tenkými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-5",
+            "name": "so Širokými rezancami",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-158",
+    "name": "47. Tôm Xào",
+    "description": "Restované Krevety – s Ryžou – s Hranolkami – s Opekanými rezancami – s Tenkými rezancami – so Širokými rezancami",
+    "category": "RESTOVANÉ",
+    "priceCents": 800,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 1*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/6055e657b932ac3fcbf34981.webp",
+    "sort": 44,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "s Ryžou",
+            "priceCents": 0
+          },
+          {
+            "id": "side-2",
+            "name": "s Hranolkami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-3",
+            "name": "s Opekanými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-4",
+            "name": "s Tenkými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-5",
+            "name": "so Širokými rezancami",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-4103",
+    "name": "48. Đậu phụ xào",
+    "description": "– s Ryžou – s Hranolkami – s Opekanými rezancami – s Tenkými rezancami – so Širokými rezancami",
+    "category": "RESTOVANÉ",
+    "priceCents": 700,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 1*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/0b2069b7ab7f9b04e353595b.webp",
+    "sort": 45,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "s Ryžou",
+            "priceCents": 0
+          },
+          {
+            "id": "side-2",
+            "name": "s Hranolkami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-3",
+            "name": "s Opekanými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-4",
+            "name": "s Tenkými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-5",
+            "name": "so Širokými rezancami",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-157",
+    "name": "Vịt Xào",
+    "description": "Restovaná Kačica – s Ryžou – s Hranolkami – s Opekanými rezancami – s Tenkými rezancami – so Širokými rezancami",
+    "category": "RESTOVANÉ",
+    "priceCents": 900,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 1*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/3e85949c9400798687326e73.webp",
+    "sort": 46,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "s Ryžou",
+            "priceCents": 0
+          },
+          {
+            "id": "side-2",
+            "name": "s Hranolkami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-3",
+            "name": "s Opekanými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-4",
+            "name": "s Tenkými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-5",
+            "name": "so Širokými rezancami",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-159",
+    "name": "49. Gà Chiên Giòn",
+    "description": "Chrumkavé Kura – s Ryžou – s Hranolkami – s Opekanými rezancami – s Tenkými rezancami – so Širokými rezancami",
+    "category": "CHRUMKAVÉ",
+    "priceCents": 700,
+    "portion": "",
+    "allergens": [
+      "Údaj pôvodného menu: 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/c998bca295fa6a9545fae547.webp",
+    "sort": 47,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "s Ryžou",
+            "priceCents": 0
+          },
+          {
+            "id": "side-2",
+            "name": "s Hranolkami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-3",
+            "name": "s Opekanými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-4",
+            "name": "s Tenkými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-5",
+            "name": "so Širokými rezancami",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-160",
+    "name": "50. Vịt Chiên Giòn",
+    "description": "Chrumkavé Kačica – s Ryžou – s Hranolkami – s Opekanými rezancami – s Tenkými rezancami – so Širokými rezancami",
+    "category": "CHRUMKAVÉ",
+    "priceCents": 800,
+    "portion": "",
+    "allergens": [
+      "Údaj pôvodného menu: 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/c8fbb1191661a788f5406519.webp",
+    "sort": 48,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "s Ryžou",
+            "priceCents": 0
+          },
+          {
+            "id": "side-2",
+            "name": "s Hranolkami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-3",
+            "name": "s Opekanými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-4",
+            "name": "s Tenkými rezancami",
+            "priceCents": 0
+          },
+          {
+            "id": "side-5",
+            "name": "so Širokými rezancami",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-161",
+    "name": "51. Cá Hồi Sốt Teriyaki",
+    "description": "Losos v Teriyaki omáčke",
+    "category": "CHRUMKAVÉ",
+    "priceCents": 850,
+    "portion": "",
+    "allergens": [
+      "Údaj pôvodného menu: 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/90464c38f077d10ec83f57a9.webp",
+    "sort": 49,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-4364",
+    "name": "Padthai s Kuracím mäsom",
+    "description": "",
+    "category": "Pad Thai",
+    "priceCents": 800,
+    "portion": "",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/food-placeholder.svg",
+    "sort": 50,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-4365",
+    "name": "Padthai s Hovädzím mäsom",
+    "description": "",
+    "category": "Pad Thai",
+    "priceCents": 900,
+    "portion": "",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/food-placeholder.svg",
+    "sort": 51,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-4366",
+    "name": "Padthai s Krevetami",
+    "description": "",
+    "category": "Pad Thai",
+    "priceCents": 900,
+    "portion": "",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/food-placeholder.svg",
+    "sort": 52,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-4367",
+    "name": "Padthai s Tofu",
+    "description": "",
+    "category": "Pad Thai",
+    "priceCents": 800,
+    "portion": "",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/food-placeholder.svg",
+    "sort": 53,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-164",
+    "name": "52. Rizoto s Kuracím mäsom",
+    "description": "",
+    "category": "RIZOTO",
+    "priceCents": 700,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 4*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/5a76885ffb691c231dd2560f.webp",
+    "sort": 54,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-165",
+    "name": "53. Rizoto s Hovädzím mäsom",
+    "description": "",
+    "category": "RIZOTO",
+    "priceCents": 800,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 4*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/70907d2f4f529f199dd5f940.webp",
+    "sort": 55,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-167",
+    "name": "54. Rizoto s Krevetami",
+    "description": "",
+    "category": "RIZOTO",
+    "priceCents": 800,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 4*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/885de5fca2605677e20e7602.webp",
+    "sort": 56,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-168",
+    "name": "55. Rizoto s Tofu",
+    "description": "",
+    "category": "RIZOTO",
+    "priceCents": 700,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 4*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/27a8df2979c9149710099d37.webp",
+    "sort": 57,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-189",
+    "name": "56. Udon s Kuracím mäsom",
+    "description": "",
+    "category": "UDON",
+    "priceCents": 700,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 4*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/ae834253878fd92a87d74d47.webp",
+    "sort": 58,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-190",
+    "name": "57. Udon s Hovädzím mäsom",
+    "description": "",
+    "category": "UDON",
+    "priceCents": 800,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 4*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/dc2e3c187b77b93ab0f326b9.webp",
+    "sort": 59,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-192",
+    "name": "58. Udon s Krevetami",
+    "description": "",
+    "category": "UDON",
+    "priceCents": 800,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 4*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b3c00c21deda8993d7033310.webp",
+    "sort": 60,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-193",
+    "name": "59. Udon s Tofu",
+    "description": "",
+    "category": "UDON",
+    "priceCents": 700,
+    "portion": "250G",
+    "allergens": [
+      "Údaj pôvodného menu: 4*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/4bc2e214dde4595655dc4e48.webp",
+    "sort": 61,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-3993",
+    "name": "60. Hovädzie mäso so zeleninou na horúcej panvici",
+    "description": "",
+    "category": "AZIJSKÉ ŠPECIALITY NA HORÚCEJ PANVICI",
+    "priceCents": 900,
+    "portion": "",
+    "allergens": [
+      "Údaj pôvodného menu: 4*, 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/350ce998a9d449b7078e5e22.webp",
+    "sort": 62,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-3994",
+    "name": "61. Kuracie mäso so zeleninou na horúcej panvici",
+    "description": "",
+    "category": "AZIJSKÉ ŠPECIALITY NA HORÚCEJ PANVICI",
+    "priceCents": 800,
+    "portion": "",
+    "allergens": [
+      "Údaj pôvodného menu: 4*, 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/2ff0153e97cdc34943115bd6.webp",
+    "sort": 63,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-3995",
+    "name": "62. Chrumkavé kurča so zeleninou na horúcej panvici",
+    "description": "",
+    "category": "AZIJSKÉ ŠPECIALITY NA HORÚCEJ PANVICI",
+    "priceCents": 800,
+    "portion": "",
+    "allergens": [
+      "Údaj pôvodného menu: 4*, 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/f7f234ea5794b2c60ec1809b.webp",
+    "sort": 64,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-3996",
+    "name": "63. Chrumkavá kačica so zeleninou na horúcej panvici",
+    "description": "",
+    "category": "AZIJSKÉ ŠPECIALITY NA HORÚCEJ PANVICI",
+    "priceCents": 900,
+    "portion": "",
+    "allergens": [
+      "Údaj pôvodného menu: 4*, 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b9fafb2181787a9e1fdc8999.webp",
+    "sort": 65,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-3997",
+    "name": "64. Tofu so zeleninou na horúcej panvici",
+    "description": "",
+    "category": "AZIJSKÉ ŠPECIALITY NA HORÚCEJ PANVICI",
+    "priceCents": 800,
+    "portion": "",
+    "allergens": [
+      "Údaj pôvodného menu: 4*, 5*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/5274f69fc5a35a9f26e1843a.webp",
+    "sort": 66,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-104",
+    "name": "B1. Aburi Bento",
+    "description": "(4ks roll losos avokado, 4ks losos maki, adamame, ryža, chrumkave kura, zelenina)",
+    "category": "BENTO MENU",
+    "priceCents": 1250,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 4*, 6*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/9cfb1c218d227ca4a32ea519.webp",
+    "sort": 67,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-105",
+    "name": "B2. Osaka Bento",
+    "description": "(4ks roll losos avokado, 4ks maki losos avokado, wakame šalát, ryža, 4ks vyprážané krevety)",
+    "category": "BENTO MENU",
+    "priceCents": 1250,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 4*, 6*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/d510417aa8e9f6663d9f2d50.webp",
+    "sort": 68,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-107",
+    "name": "B3. Tofu Bento",
+    "description": "(vyprážané tofu so zeleninou, tenkými rezancami, 4ks maki avokado, 4ks maki mango, adamame, )",
+    "category": "BENTO MENU",
+    "priceCents": 1100,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 4*, 6*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/d47a0803cf99bd78503e170b.webp",
+    "sort": 69,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-106",
+    "name": "B4. Sake Bento",
+    "description": "(4ks roll losos avokado, 4ks maki losos, kapustový šalát, vyprážaný losos, restovaná zelenina, ryža)",
+    "category": "BENTO MENU",
+    "priceCents": 1250,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 4*, 6*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/c46ba63fa53cf8df495718f7.webp",
+    "sort": 70,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-109",
+    "name": "B5. Special Bento",
+    "description": "(chrumkavé kura a vyprážané rezance, 4ks maki losos, 4ks maki uhorka, 2ks nigiri losos, 2 nigiri mango, kapustový šalát)",
+    "category": "BENTO MENU",
+    "priceCents": 1300,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 4*, 6*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/d72d3ad8e60882bc729e699c.webp",
+    "sort": 71,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-110",
+    "name": "B6. Doki Bento",
+    "description": "(Restované hovädzie mäso s restovanou zeleninou, 4ks maki losos, wakame šalát, 3ks nigiri losos, ryža)",
+    "category": "BENTO MENU",
+    "priceCents": 1350,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 4*, 6*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/800f821c1f58db96b16ee245.webp",
+    "sort": 72,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-111",
+    "name": "B7. Sashimi Bento",
+    "description": "(2ks sashimi losos, 2ks sashimi tuniak, 8ks maki losos, 2ks nigiri losos, adamame, pražené ryžové rezance)",
+    "category": "BENTO MENU",
+    "priceCents": 1450,
+    "portion": "2ks",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 4*, 6*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/3ed819c84a5db8f4737f12e7.webp",
+    "sort": 73,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-112",
+    "name": "B8. Tempura Bento",
+    "description": "(4ks roll losos avokado, 4ks maki losos, chrumkavá kačica, ryža, adamame, kapustový šalát)",
+    "category": "BENTO MENU",
+    "priceCents": 1350,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 4*, 6*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/6e2d9a8f28597c7e706fda83.webp",
+    "sort": 74,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-103",
+    "name": "Vegan Bento",
+    "description": "(4ks avokádo maki, 4ks mango maki, udon s tofu, wakame šalát, zelenina)",
+    "category": "BENTO MENU",
+    "priceCents": 1150,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 4*, 6*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/86a21e6af59474eaec324491.webp",
+    "sort": 75,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-108",
+    "name": "Tory Bento",
+    "description": "(4ks roll losos avokado, 2ks nigiri losos, wakame šalát, restovaná zelenina, 2ks nugetky, ryža)",
+    "category": "BENTO MENU",
+    "priceCents": 1350,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 4*, 6*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/53e6afa8a6bbc31e4fac5d96.webp",
+    "sort": 76,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-113",
+    "name": "P1. KURA POKE",
+    "description": "(ryža, kuracie mäso, vajičko, avokádo, edamame, zázvor, wakame, mrkva, kapusta, sezam, teriyaki, pikantná omáčka)",
+    "category": "POKE BOWL",
+    "priceCents": 900,
+    "portion": "290g",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 3*, 6*, 11*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/58c11a394fcd396982add7f9.webp",
+    "sort": 77,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-114",
+    "name": "P2. HOVÄDZIE POKE",
+    "description": "(ryža, hovädzie mäso, vajičko, avokádo, edamame, zázvor, wakame, mrkva, kapusta, sezam, teriyaki, pikantná omáčka)",
+    "category": "POKE BOWL",
+    "priceCents": 950,
+    "portion": "290g",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 3*, 6*, 11*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/36690383a01500750a6c6831.webp",
+    "sort": 78,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-115",
+    "name": "P3. EBI POKE",
+    "description": "(ryža, krevety, vajičko, avokádo, edamame, zázvor, wakame, mrkva, kapusta, sezam, teriyaki, pikantná omáčka)",
+    "category": "POKE BOWL",
+    "priceCents": 950,
+    "portion": "290g",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 3*, 6*, 11*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/78df506f487c215ecc6391e7.webp",
+    "sort": 79,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-116",
+    "name": "P4. SAKE POKE",
+    "description": "(ryža, losos, vajičko, avokádo, edamame, zázvor, wakame, mrkva, kapusta, sezam, teriyaki, pikantná omáčka)",
+    "category": "POKE BOWL",
+    "priceCents": 950,
+    "portion": "290g",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 3*, 6*, 11*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/bc557b9bd52e6db73139f847.webp",
+    "sort": 80,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-117",
+    "name": "P5. TUNA POKE",
+    "description": "(ryža, tuniak, vajičko, avokádo, edamame, zázvor, wakame, mrkva, kapusta, sezam, teriyaki, pikantná omáčka)",
+    "category": "POKE BOWL",
+    "priceCents": 950,
+    "portion": "290g",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 3*, 6*, 11*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/f4539eaf0c9b8965f61570dd.webp",
+    "sort": 81,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-118",
+    "name": "P6. TOFU POKE",
+    "description": "(ryža, krevety, vajičko, avokádo, edamame, zázvor, wakame, mrkva, kapusta, sezam, teriyaki, pikantná omáčka)",
+    "category": "POKE BOWL",
+    "priceCents": 900,
+    "portion": "290g",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 3*, 6*, 11*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/c802557ee952e85330065470.webp",
+    "sort": 82,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-119",
+    "name": "U1. Udon Poke Bowl S Kuracím Mäsom",
+    "description": "(udon rezance, kuracie mäso, vajičko, avokádo, edamame, zázvor, wakame, mrkva, kapusta, sezam, teriyaki, pikantná omáčka)",
+    "category": "UDON POKE BOWL",
+    "priceCents": 900,
+    "portion": "250g",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 3*, 6*, 11*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/10cbfb25720d137059884726.webp",
+    "sort": 83,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-120",
+    "name": "U2. Udon Poke Bowl S HoVädzím Mäsom",
+    "description": "",
+    "category": "UDON POKE BOWL",
+    "priceCents": 950,
+    "portion": "250g",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 3*, 6*, 11*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/10edae18d8719e2055e3cdb1.webp",
+    "sort": 84,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-121",
+    "name": "U3. Udon Poke Bowl S Krevetami",
+    "description": "(udon rezance, krevety, vajičko, avokádo, edamame, zázvor, wakame, mrkva, kapusta, sezam, teriyaki, pikantná omáčka)",
+    "category": "UDON POKE BOWL",
+    "priceCents": 950,
+    "portion": "250g",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 3*, 6*, 11*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/11abcd105380be29bb6623f1.webp",
+    "sort": 85,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-122",
+    "name": "U4. Udon Poke Bowl S LoSoSom",
+    "description": "(udon rezance, losos, vajičko, avokádo, edamame, zázvor, wakame, mrkva, kapusta, sezam, teriyaki, pikantná omáčka)",
+    "category": "UDON POKE BOWL",
+    "priceCents": 950,
+    "portion": "250g",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 3*, 6*, 11*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/0d8938526274672e0d2c4e48.webp",
+    "sort": 86,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-123",
+    "name": "U5. Udon Poke Bowl S Tuna",
+    "description": "",
+    "category": "UDON POKE BOWL",
+    "priceCents": 950,
+    "portion": "250g",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 3*, 6*, 11*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/24c35e376f17fa8b3cc24a28.webp",
+    "sort": 87,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-145",
+    "name": "U6. Udon Poke Bowl S Tofu",
+    "description": "(udon rezance, tofu, vajičko, avokádo, edamame, zázvor, wakame, mrkva, kapusta, sezam, teriyaki, pikantná omáčka)",
+    "category": "UDON POKE BOWL",
+    "priceCents": 850,
+    "portion": "250g",
+    "allergens": [
+      "Údaj pôvodného menu: 1*, 3*, 6*, 11*. Význam a úplnosť alergénov musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/497452c998666c0b1221e035.webp",
+    "sort": 88,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-194",
+    "name": "T1. Mochi (4ks)",
+    "description": "",
+    "category": "DEZERTY",
+    "priceCents": 300,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b750bc7b96567bf950f2d494.webp",
+    "sort": 89,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-196",
+    "name": "T2. Čerstvé vietnamské krevetové chipsy (10ks)",
+    "description": "",
+    "category": "DEZERTY",
+    "priceCents": 300,
+    "portion": "10ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/794f65da7056b4ffc712352d.webp",
+    "sort": 90,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-195",
+    "name": "T3. Banán v tempure so zmrzlinou (2ks)",
+    "description": "",
+    "category": "DEZERTY",
+    "priceCents": 500,
+    "portion": "2ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/411e53b56a379a54362fe532.webp",
+    "sort": 91,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-197",
+    "name": "S1. Avokado Maki (Avokádo) 8ks",
+    "description": "",
+    "category": "MAKI SUSHI 8ks",
+    "priceCents": 400,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/18b0a7b211967c1fed4110e0.webp",
+    "sort": 92,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-199",
+    "name": "S2. Kappa Maki (Uhorka) 8ks",
+    "description": "",
+    "category": "MAKI SUSHI 8ks",
+    "priceCents": 400,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b4c9fd69f25e60ac6419cbee.webp",
+    "sort": 93,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-202",
+    "name": "S3. Mango Maki 8ks",
+    "description": "",
+    "category": "MAKI SUSHI 8ks",
+    "priceCents": 400,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/1dd0a5a5f4ba006f2f758e45.webp",
+    "sort": 94,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-201",
+    "name": "S4. Ebi Maki (Krevety) 8ks",
+    "description": "",
+    "category": "MAKI SUSHI 8ks",
+    "priceCents": 550,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/7b43359d858e1de663b517d1.webp",
+    "sort": 95,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-200",
+    "name": "S5. Sake Maki (Losos) 8ks",
+    "description": "",
+    "category": "MAKI SUSHI 8ks",
+    "priceCents": 550,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/666eb610fbb802bdb1373a6f.webp",
+    "sort": 96,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-206",
+    "name": "S6. Tekka Maki (Tuniak) 8ks",
+    "description": "",
+    "category": "MAKI SUSHI 8ks",
+    "priceCents": 550,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/177d038ada1789de69a32026.webp",
+    "sort": 97,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-204",
+    "name": "S7. Sake Avokado Maki",
+    "description": "(Losos, Avokádo)",
+    "category": "MAKI SUSHI 8ks",
+    "priceCents": 750,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/d2aa8b26dc2fa954a26f12a5.webp",
+    "sort": 98,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-205",
+    "name": "S8. Tekka Avokado Maki",
+    "description": "(Tuniak, Avokádo)",
+    "category": "MAKI SUSHI 8ks",
+    "priceCents": 750,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/666eb610fbb802bdb1373a6f.webp",
+    "sort": 99,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-203",
+    "name": "S9. Ebi Avokado Maki (Krevety S Avokádom)",
+    "description": "",
+    "category": "MAKI SUSHI 8ks",
+    "priceCents": 750,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/666eb610fbb802bdb1373a6f.webp",
+    "sort": 100,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-198",
+    "name": "Kani Maki (Kráb) 8ks",
+    "description": "",
+    "category": "MAKI SUSHI 8ks",
+    "priceCents": 450,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/food-placeholder.svg",
+    "sort": 101,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-207",
+    "name": "S10. Sake Meyro Roll",
+    "description": "(Losos, Avokádo)",
+    "category": "TEMPURA SUSHI 8ks",
+    "priceCents": 900,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b1901adb2544c6bd4ae294fc.webp",
+    "sort": 102,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-209",
+    "name": "S11. Ebi Meyro Roll",
+    "description": "(Krevety, Avokádo)",
+    "category": "TEMPURA SUSHI 8ks",
+    "priceCents": 900,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b1901adb2544c6bd4ae294fc.webp",
+    "sort": 103,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-210",
+    "name": "S12. Tekka Meyro Roll",
+    "description": "(Tuniak, Avokádo)",
+    "category": "TEMPURA SUSHI 8ks",
+    "priceCents": 900,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b1901adb2544c6bd4ae294fc.webp",
+    "sort": 104,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-211",
+    "name": "S13. Okinawa Meyro Roll",
+    "description": "(Úhor, Avokádo)",
+    "category": "TEMPURA SUSHI 8ks",
+    "priceCents": 900,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b1901adb2544c6bd4ae294fc.webp",
+    "sort": 105,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-208",
+    "name": "S14. Ebi Crunch Roll",
+    "description": "(Krevety, Avokádo)",
+    "category": "TEMPURA SUSHI 8ks",
+    "priceCents": 900,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b1901adb2544c6bd4ae294fc.webp",
+    "sort": 106,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-213",
+    "name": "S15. Sake Crunch Roll",
+    "description": "(Losos, Avokádo)",
+    "category": "TEMPURA SUSHI 8ks",
+    "priceCents": 900,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b1901adb2544c6bd4ae294fc.webp",
+    "sort": 107,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-214",
+    "name": "S16. Tekka Crunch Roll",
+    "description": "(Tuniak, Avokádo)",
+    "category": "TEMPURA SUSHI 8ks",
+    "priceCents": 900,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b1901adb2544c6bd4ae294fc.webp",
+    "sort": 108,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-215",
+    "name": "S17. Kani Crunch Roll",
+    "description": "(Kráb, Avokádo)",
+    "category": "TEMPURA SUSHI 8ks",
+    "priceCents": 900,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b1901adb2544c6bd4ae294fc.webp",
+    "sort": 109,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-212",
+    "name": "Kani Meyro Roll",
+    "description": "(Kráb, Avokádo)",
+    "category": "TEMPURA SUSHI 8ks",
+    "priceCents": 900,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b1901adb2544c6bd4ae294fc.webp",
+    "sort": 110,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-216",
+    "name": "S18. Yohji Roll",
+    "description": "(Úhor, Losos, Avokádo)",
+    "category": "SPECIAL ROLL 8ks",
+    "priceCents": 1100,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/e95407758af829cbd2966a61.webp",
+    "sort": 111,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-225",
+    "name": "S19. Sato Rolls (Losos, Úhor a Majonéza) 8ks",
+    "description": "(Tuniak, Losos, Avokádo)",
+    "category": "SPECIAL ROLL 8ks",
+    "priceCents": 1100,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/6715e32f816ec3ba25b2e37c.webp",
+    "sort": 112,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-227",
+    "name": "S20. Ebi Roll",
+    "description": "(Krevety, Losos, Avokádo)",
+    "category": "SPECIAL ROLL 8ks",
+    "priceCents": 1100,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/02dabe354d56cd442d01bfe5.webp",
+    "sort": 113,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-231",
+    "name": "S21. Philadelphia Roll",
+    "description": "(Losos, Uhorka, Sezam)",
+    "category": "SPECIAL ROLL 8ks",
+    "priceCents": 1100,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/0489bc295d07c8519b1f7db9.webp",
+    "sort": 114,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-230",
+    "name": "S22. California Roll",
+    "description": "(Avokádo, Losos, Uhorka)",
+    "category": "SPECIAL ROLL 8ks",
+    "priceCents": 1100,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/7c7ccacdff9ab7f88be8b637.webp",
+    "sort": 115,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-226",
+    "name": "S23. Alaska Roll",
+    "description": "(Losos, Kaviár, Avokádo)",
+    "category": "SPECIAL ROLL 8ks",
+    "priceCents": 1100,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/09fec4968245a2919ca6c833.webp",
+    "sort": 116,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-228",
+    "name": "S24. Unagi Roll",
+    "description": "(Úhor, Kaviár, Avokádo)",
+    "category": "SPECIAL ROLL 8ks",
+    "priceCents": 1100,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/09fec4968245a2919ca6c833.webp",
+    "sort": 117,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-229",
+    "name": "S25. Green Roll",
+    "description": "(Losos, Kaviár, Avokádo)",
+    "category": "SPECIAL ROLL 8ks",
+    "priceCents": 1100,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b8ff96e8cd711a024e7bd71b.webp",
+    "sort": 118,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-239",
+    "name": "S26. Sake Nigiri",
+    "description": "(Losos)",
+    "category": "NIGIRI SUSHI 4ks",
+    "priceCents": 750,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/814400aa4f7d9d7c7a1787a8.webp",
+    "sort": 119,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-237",
+    "name": "S27. Maguro Nigiri",
+    "description": "(Tuniak)",
+    "category": "NIGIRI SUSHI 4ks",
+    "priceCents": 750,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/16a942c99b4e42d976268d06.webp",
+    "sort": 120,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-238",
+    "name": "S28. Ebi Nigiri (Krevety)",
+    "description": "",
+    "category": "NIGIRI SUSHI 4ks",
+    "priceCents": 750,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/c8d01248705e42f1fcbeaa67.webp",
+    "sort": 121,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-236",
+    "name": "S29. Avokado Nigiri (Ávokado)",
+    "description": "",
+    "category": "NIGIRI SUSHI 4ks",
+    "priceCents": 600,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/15ddf9df7a2763a3e0015509.webp",
+    "sort": 122,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-232",
+    "name": "Unagi Nigiri (Úhor)",
+    "description": "",
+    "category": "NIGIRI SUSHI 4ks",
+    "priceCents": 750,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/food-placeholder.svg",
+    "sort": 123,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-233",
+    "name": "Kani Nigiri (Kráb)",
+    "description": "",
+    "category": "NIGIRI SUSHI 4ks",
+    "priceCents": 750,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/food-placeholder.svg",
+    "sort": 124,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-234",
+    "name": "Tamago Nigiri (Vajcia)",
+    "description": "",
+    "category": "NIGIRI SUSHI 4ks",
+    "priceCents": 600,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/food-placeholder.svg",
+    "sort": 125,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-235",
+    "name": "Mango Nigiri (Mango)",
+    "description": "",
+    "category": "NIGIRI SUSHI 4ks",
+    "priceCents": 750,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/food-placeholder.svg",
+    "sort": 126,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-243",
+    "name": "S30. Sake Sashimi (Losos)",
+    "description": "",
+    "category": "SASHIMI 4ks",
+    "priceCents": 600,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/797179fa7366a7fe3ea09551.webp",
+    "sort": 127,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-241",
+    "name": "S31. Maguro Sashimi (Tuniak)",
+    "description": "",
+    "category": "SASHIMI 4ks",
+    "priceCents": 600,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b8e3d32bab37b21583697730.webp",
+    "sort": 128,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-240",
+    "name": "S32. Ebi Sashimi (Krevety)",
+    "description": "",
+    "category": "SASHIMI 4ks",
+    "priceCents": 600,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/e99d7b501d204154f1202068.webp",
+    "sort": 129,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-242",
+    "name": "Unagi Sashimi (Úhor)",
+    "description": "",
+    "category": "SASHIMI 4ks",
+    "priceCents": 600,
+    "portion": "4ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/food-placeholder.svg",
+    "sort": 130,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-244",
+    "name": "S33. Maki Set Menu 24ks",
+    "description": "– 8ks Losos Maki – 8ks Tuniak Maki – 8ks Avokádo Maki",
+    "category": "SETY SUSHI",
+    "priceCents": 1200,
+    "portion": "24ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/34c8949b32cc738a998b23c2.webp",
+    "sort": 131,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-245",
+    "name": "S34. Vegan Set Maki 32ks",
+    "description": "– 8ks Avokádo Maki – 8ks Uhorka Maki – 8ks Kappa Maki – 8ks Redkovka Maki",
+    "category": "SETY SUSHI",
+    "priceCents": 1200,
+    "portion": "32ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/c72e3b167bd7261434f7b6f9.webp",
+    "sort": 132,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-4003",
+    "name": "S35. Mori Set",
+    "description": "– 8ks Ebi Avokado Roll s lososom navrchu – 8ks Tekka Maki",
+    "category": "SETY SUSHI",
+    "priceCents": 1650,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/da4b699014998c67702ae2d3.webp",
+    "sort": 133,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-4004",
+    "name": "S36. Sake Set",
+    "description": "– 8ks Sake Avokado Roll s kaviárom – 8ks Sake Maki – 2ks Sake Nigiri",
+    "category": "SETY SUSHI",
+    "priceCents": 1850,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/17bdd835b86e58b31a9bd729.webp",
+    "sort": 134,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-4005",
+    "name": "S37. Philadelphia Menu",
+    "description": "– 8ks Alaska Roll – 2ks Sake Nigiri – 2ks Maguro Nigiri – 2ks Tamago Nigiri",
+    "category": "SETY SUSHI",
+    "priceCents": 1850,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/11932f692459de0fd2973c9b.webp",
+    "sort": 135,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-4006",
+    "name": "S38. Mizu Set",
+    "description": "– 8ks Sake Avokado Roll – 8ks Sake Maki – 2ks Sake Nigiri",
+    "category": "SETY SUSHI",
+    "priceCents": 1850,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/7ef729625d4a2289de7db95d.webp",
+    "sort": 136,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-246",
+    "name": "Nigiri Set Menu 16ks",
+    "description": "– 4ks Losos Nigiri – 4ks Tuniak Nigiri – 4ks Krevety Nigiri – 4ks Úhor Nigiri",
+    "category": "SETY SUSHI",
+    "priceCents": 3000,
+    "portion": "16ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/aaa9b27eb70a2accf7ea63f1.webp",
+    "sort": 137,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-247",
+    "name": "S39. Fujiayama Set Menu",
+    "description": "– 8ks Dragon Losos Roll – 8ks Alaska Roll – 8ks Kappa Maki",
+    "category": "MIX SET MENU",
+    "priceCents": 2200,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b95506ff9475451442840367.webp",
+    "sort": 138,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-4012",
+    "name": "S40. Umi Set",
+    "description": "– 8ks vyprážaný Sake Avokado Roll – 8ks Tekka Avokado Roll s kaviárom – 8ks Kappa Maki",
+    "category": "MIX SET MENU",
+    "priceCents": 2400,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/a78c653b9f2433d11f3aa1b6.webp",
+    "sort": 139,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-251",
+    "name": "S44. Yokohame Menu",
+    "description": "– 8ks Kráb Roll – 8ks California Roll – 8ks Sake Avokado Maki – 8ks Sake Kappa Maki – 2ks Sake Nigiri – 2ks Tamago Nigiri – 2ks Ebi Nigiri – 2ks Unagi Nigiri",
+    "category": "MIX SET MENU",
+    "priceCents": 4000,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/83a6f21dc845578a896d7328.webp",
+    "sort": 140,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-252",
+    "name": "S45. Sakura Menu",
+    "description": "– 8ks Alaska Roll – 8ks Green Tuniak Roll – 8ks Califonia Roll – 8ks Kani Roll – 8ks Maki Losos – 8ks Maki Tuniak – 8ks Maki Avokado – 8ks Kani Maki – 8ks Kappa Maki",
+    "category": "MIX SET MENU",
+    "priceCents": 5400,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b3e7aef35b03180a5cafd292.webp",
+    "sort": 141,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-253",
+    "name": "S46. Tokyo Menu",
+    "description": "– 8ks Alaska Roll – 8ks California Roll Tuna – 8ks California Roll Losos – 16ks Sake Maki – 16ks Tuna Maki – 4ks Sashimi Sake – 4ks Sashimi Maguro – 3ks Tobico Kaviar – 5ks Nigiri Maguro – 5ks Nigiri Sake",
+    "category": "MIX SET MENU",
+    "priceCents": 6300,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/2670c0478ad2b6aa8349e92c.webp",
+    "sort": 142,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-250",
+    "name": "Okinawa Menu",
+    "description": "– 8ks Alaska Roll – 8ks Kani Kaviar Roll – 3ks Sashimi Sake – 3ks Sashimi Maguro",
+    "category": "MIX SET MENU",
+    "priceCents": 3400,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/8dbd4a49b72877238281bbc5.webp",
+    "sort": 143,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-249",
+    "name": "Hamanishi Menu",
+    "description": "– 8ks Alaska Roll – 6ks Sashimi Sake",
+    "category": "MIX SET MENU",
+    "priceCents": 2300,
+    "portion": "8ks",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/d5b33fc633baaadecef2cfee.webp",
+    "sort": 144,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-254",
+    "name": "Citronáda (0,3l)",
+    "description": "– Citronáda (0,3l)",
+    "category": "DOMÁCE LIMONÁDY",
+    "priceCents": 160,
+    "portion": "0,3l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/d5bb0bb3e2407962f551e587.webp",
+    "sort": 145,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "Citronáda (0,3l)",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-294",
+    "name": "Citronáda (0,5l)",
+    "description": "Citronáda (0,5l)",
+    "category": "DOMÁCE LIMONÁDY",
+    "priceCents": 190,
+    "portion": "0,5l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/d5bb0bb3e2407962f551e587.webp",
+    "sort": 146,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-270",
+    "name": "Pomarančová (0,3l)",
+    "description": "– Pomarančová (0,3l)",
+    "category": "DOMÁCE LIMONÁDY",
+    "priceCents": 190,
+    "portion": "0,3l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/07ec0c214f289a45529908fa.webp",
+    "sort": 147,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "Pomarančová (0,3l)",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-295",
+    "name": "Pomarančová (0,5l)",
+    "description": "Pomarančová (0,5l)",
+    "category": "DOMÁCE LIMONÁDY",
+    "priceCents": 290,
+    "portion": "0,5l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/07ec0c214f289a45529908fa.webp",
+    "sort": 148,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-271",
+    "name": "Ananásová (0,3l)",
+    "description": "– Ananásová (0,3l)",
+    "category": "DOMÁCE LIMONÁDY",
+    "priceCents": 190,
+    "portion": "0,3l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/c5420d6f31a7498bb6f6dd9c.webp",
+    "sort": 149,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "Ananásová (0,3l)",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-296",
+    "name": "Ananásová (0,5l)",
+    "description": "Ananásová (0,5l)",
+    "category": "DOMÁCE LIMONÁDY",
+    "priceCents": 290,
+    "portion": "0,5l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/c5420d6f31a7498bb6f6dd9c.webp",
+    "sort": 150,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-272",
+    "name": "Melónová (0,3l)",
+    "description": "– Melónová (0,3l)",
+    "category": "DOMÁCE LIMONÁDY",
+    "priceCents": 190,
+    "portion": "0,3l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/510e7dd010657bb256f7f2f1.webp",
+    "sort": 151,
+    "active": true,
+    "available": true,
+    "options": [
+      {
+        "id": "side",
+        "name": "Príloha",
+        "required": true,
+        "choices": [
+          {
+            "id": "side-1",
+            "name": "Melónová (0,3l)",
+            "priceCents": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vf-297",
+    "name": "Melónová (0,5l)",
+    "description": "Melónová (0,5l)",
+    "category": "DOMÁCE LIMONÁDY",
+    "priceCents": 290,
+    "portion": "0,5l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/510e7dd010657bb256f7f2f1.webp",
+    "sort": 152,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-4101",
+    "name": "Mangový (0,3l)",
+    "description": "",
+    "category": "DOMÁCE LIMONÁDY",
+    "priceCents": 190,
+    "portion": "0,3l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/3ca274aed5b9e139f3290904.webp",
+    "sort": 153,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-4102",
+    "name": "Mangový (0,5l)",
+    "description": "",
+    "category": "DOMÁCE LIMONÁDY",
+    "priceCents": 290,
+    "portion": "0,5l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/0d2c072e57d6d08e89f06c96.webp",
+    "sort": 154,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-273",
+    "name": "Coconut Milk",
+    "description": "(kokos, jahoda, mango) 0,33l",
+    "category": "NEALKOHOLICKÉ NÁPOJ",
+    "priceCents": 220,
+    "portion": "0,33l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/55f784de0ff26e95f5796e35.webp",
+    "sort": 155,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-274",
+    "name": "Vinut s Bazalkovými Semienkami",
+    "description": "(jahoda, mango, lychee, cocktail) 0,33l",
+    "category": "NEALKOHOLICKÉ NÁPOJ",
+    "priceCents": 220,
+    "portion": "0,33l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b96e4828b40515e2ffb8cfd9.webp",
+    "sort": 156,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-275",
+    "name": "Aloe Vera",
+    "description": "(original, mango, lychee) 0,5l",
+    "category": "NEALKOHOLICKÉ NÁPOJ",
+    "priceCents": 220,
+    "portion": "0,5l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/1b7ee0a426904383dc6d269b.webp",
+    "sort": 157,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-276",
+    "name": "Foco (kokos, mango, lychee) 0,35l",
+    "description": "",
+    "category": "NEALKOHOLICKÉ NÁPOJ",
+    "priceCents": 220,
+    "portion": "0,35l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/1995d92d65d177c0bb5b8c4a.webp",
+    "sort": 158,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-277",
+    "name": "Green tea 0,75l 0,35l",
+    "description": "",
+    "category": "NEALKOHOLICKÉ NÁPOJ",
+    "priceCents": 220,
+    "portion": "0,75l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/19f738fda0d2296e830b8f4f.webp",
+    "sort": 159,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-278",
+    "name": "Vinea (červená, biela) 0,5l",
+    "description": "",
+    "category": "NEALKOHOLICKÉ NÁPOJ",
+    "priceCents": 190,
+    "portion": "0,5l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/3e6beb8b15af693589a0095d.webp",
+    "sort": 160,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-279",
+    "name": "Coca Cola (0,5l)",
+    "description": "Coca Cola Zero (0,5l) 1,80€",
+    "category": "NEALKOHOLICKÉ NÁPOJ",
+    "priceCents": 190,
+    "portion": "0,5l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b138c45de406e38c8aaf94ff.webp",
+    "sort": 161,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-3977",
+    "name": "Coca Cola Zero (0,5l)",
+    "description": "",
+    "category": "NEALKOHOLICKÉ NÁPOJ",
+    "priceCents": 190,
+    "portion": "0,5l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b138c45de406e38c8aaf94ff.webp",
+    "sort": 162,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-280",
+    "name": "Rajec (0,3l)",
+    "description": "",
+    "category": "NEALKOHOLICKÉ NÁPOJ",
+    "priceCents": 190,
+    "portion": "0,3l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b49ee211ea4d30d6404b0dd2.webp",
+    "sort": 163,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-281",
+    "name": "Kofola (0,3l)",
+    "description": "",
+    "category": "ČAPOVANÉ NÁPOJ",
+    "priceCents": 150,
+    "portion": "0,3l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/30b00e57c476480ca41f4428.webp",
+    "sort": 164,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-3978",
+    "name": "Kofola (0,5l)",
+    "description": "",
+    "category": "ČAPOVANÉ NÁPOJ",
+    "priceCents": 190,
+    "portion": "0,5l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/30b00e57c476480ca41f4428.webp",
+    "sort": 165,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-282",
+    "name": "Malina (0,3l)",
+    "description": "",
+    "category": "ČAPOVANÉ NÁPOJ",
+    "priceCents": 150,
+    "portion": "0,3l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/93c68303c84c1c84438c5576.webp",
+    "sort": 166,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-3979",
+    "name": "Malina (0,5l)",
+    "description": "",
+    "category": "ČAPOVANÉ NÁPOJ",
+    "priceCents": 190,
+    "portion": "0,5l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/93c68303c84c1c84438c5576.webp",
+    "sort": 167,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-283",
+    "name": "Plžen (0,5l)",
+    "description": "",
+    "category": "PIVO",
+    "priceCents": 220,
+    "portion": "0,5l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/4ec61cdc78b8c0153b068f3b.webp",
+    "sort": 168,
+    "active": false,
+    "available": false,
+    "options": []
+  },
+  {
+    "id": "vf-284",
+    "name": "Kozel (0,5l)",
+    "description": "",
+    "category": "PIVO",
+    "priceCents": 190,
+    "portion": "0,5l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/f21b1de713e7eb841bb1ab4c.webp",
+    "sort": 169,
+    "active": false,
+    "available": false,
+    "options": []
+  },
+  {
+    "id": "vf-285",
+    "name": "Čapované pivo (0,3l)",
+    "description": "",
+    "category": "PIVO",
+    "priceCents": 220,
+    "portion": "0,3l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/29bab210c9dab04463e564ab.webp",
+    "sort": 170,
+    "active": false,
+    "available": false,
+    "options": []
+  },
+  {
+    "id": "vf-3980",
+    "name": "Čapované pivo (0,5l)",
+    "description": "",
+    "category": "PIVO",
+    "priceCents": 290,
+    "portion": "0,5l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/29bab210c9dab04463e564ab.webp",
+    "sort": 171,
+    "active": false,
+    "available": false,
+    "options": []
+  },
+  {
+    "id": "vf-286",
+    "name": "Vietnamská Káva",
+    "description": "",
+    "category": "KÁVA",
+    "priceCents": 220,
+    "portion": "",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/df98a9d1361ae9def882131a.webp",
+    "sort": 172,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-287",
+    "name": "Espresso",
+    "description": "",
+    "category": "KÁVA",
+    "priceCents": 220,
+    "portion": "",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/88359bdb14ef8e3ab32de56c.webp",
+    "sort": 173,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-288",
+    "name": "Cappuccino",
+    "description": "",
+    "category": "KÁVA",
+    "priceCents": 220,
+    "portion": "",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/e44e156f182e773238868659.webp",
+    "sort": 174,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-289",
+    "name": "Latte",
+    "description": "",
+    "category": "KÁVA",
+    "priceCents": 220,
+    "portion": "",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/b408619ecfe1185887fc1bc2.webp",
+    "sort": 175,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-290",
+    "name": "Jasmínový čaj",
+    "description": "",
+    "category": "Čaj",
+    "priceCents": 220,
+    "portion": "",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/497f46a81422891bf75483b0.webp",
+    "sort": 176,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-292",
+    "name": "Lotosový čaj",
+    "description": "",
+    "category": "Čaj",
+    "priceCents": 220,
+    "portion": "",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/241ed0ab4c6ec7c4d5b62f2f.webp",
+    "sort": 177,
+    "active": true,
+    "available": true,
+    "options": []
+  },
+  {
+    "id": "vf-293",
+    "name": "Biele, Červené, Ruzové",
+    "description": "",
+    "category": "VÍNO",
+    "priceCents": 290,
+    "portion": "0,2l",
+    "allergens": [
+      "Údaj o alergénoch ešte musí potvrdiť prevádzka."
+    ],
+    "image": "/menu/dolny-stal/e7ff1c099f7c6726021b528c.webp",
+    "sort": 178,
+    "active": false,
+    "available": false,
+    "options": []
+  }
+]

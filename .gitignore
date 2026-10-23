@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.env
+.env.*
+!.env.example
+playwright-report/
+test-results/
+coverage/
+*.tsbuildinfo
+backups/
+.local/
+tmp/
+output/
+reference-google.html

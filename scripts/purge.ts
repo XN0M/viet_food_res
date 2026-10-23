@@ -1,0 +1,3 @@
+import 'dotenv/config';
+import { db } from '../src/lib/db';
+async function main(){const s=await db.settings.findUniqueOrThrow({where:{id:1}});const where={status:{in:['COMPLETED','CANCELLED','REJECTED','EXPIRED']},updatedAt:{lt:new Date(Date.now()-s.retentionDays*86400000)}};const count=await db.order.count({where});console.log(`Eligible terminal orders: ${count}; retention ${s.retentionDays} days.`);if(process.argv.includes('--apply')){await db.order.deleteMany({where});console.log('Retention deletion completed. Review backup retention separately.');}else console.log('Dry run. Pass --apply only after retention policy approval.');}main().finally(()=>db.$disconnect());
