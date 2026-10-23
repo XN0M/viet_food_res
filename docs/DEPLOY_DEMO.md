@@ -10,6 +10,8 @@ Dự án chỉ triển khai khi chủ tài khoản xác nhận chi phí trong m�
 4. Sau khi biết URL `onrender.com`, cập nhật `APP_URL` **cả web và worker**, rồi redeploy. API so sánh Origin với `APP_URL`, nên đặt sai URL sẽ làm checkout hoặc thao tác admin bị từ chối.
 5. Pre-deploy sẽ chạy migration, khởi tạo cài đặt, rồi chỉ nhập menu/ảnh Dolný Štál khi database trống. Tài khoản owner chỉ được tạo nếu chưa có người dùng và đã đặt `ADMIN_EMAIL`/`ADMIN_PASSWORD`. Sau lần đầu, xóa hai biến mật khẩu tạo tài khoản khỏi Render và đổi mật khẩu trong admin.
 
+Blueprint đặt `TRUST_PROXY=render` để giới hạn lượt gọi theo IP khách qua header `CF-Connecting-IP` do lớp Cloudflare của Render ghi. Nếu chuyển sang nhà cung cấp khác, đổi cấu hình và kiểm tra lại nguồn IP tin cậy trước khi mở truy cập công khai.
+
 ## Kiểm tra sau triển khai
 
 - Mở `/`, `/menu`, `/informacie` bằng trình duyệt ẩn danh và điện thoại. Xác nhận logo, font, ảnh, giá EUR và nhãn demo.

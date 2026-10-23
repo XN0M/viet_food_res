@@ -38,7 +38,7 @@ services:
       - key: OPENCAGE_API_KEY
         sync: false
       - key: TRUST_PROXY
-        value: "false"
+        value: render
   - type: worker
     name: vietfood-worker
     runtime: docker

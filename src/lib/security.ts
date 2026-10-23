@@ -26,8 +26,11 @@ export async function staff(request:NextRequest,roles?:string[]){
   if(roles&&!roles.includes(session.user.role))throw new HttpError(403,'Na túto zmenu nemáte oprávnenie.');
   return session.user;
 }
+export function clientIp(request:Pick<NextRequest,'headers'>){
+  return process.env.TRUST_PROXY==='render'?request.headers.get('cf-connecting-ip')?.trim()||'unknown':'local';
+}
 export async function rateLimit(request:NextRequest,kind:string,limit:number,minutes=10){
-  const ip=process.env.TRUST_PROXY==='true'?request.headers.get('x-forwarded-for')?.split(',')[0].trim()??'unknown':'local';
+  const ip=clientIp(request);
   const key=hash(kind+':'+ip); const now=new Date();const reset=new Date(now.getTime()+minutes*60000);
   const rows=await db.$queryRaw<{count:number}[]>`INSERT INTO "RateLimit" ("key","count","resetAt") VALUES (${key},1,${reset}) ON CONFLICT ("key") DO UPDATE SET "count"=CASE WHEN "RateLimit"."resetAt"<${now} THEN 1 ELSE "RateLimit"."count"+1 END, "resetAt"=CASE WHEN "RateLimit"."resetAt"<${now} THEN ${reset} ELSE "RateLimit"."resetAt" END RETURNING "count"`;
   if(rows[0].count>limit)throw new HttpError(429,'Príliš veľa pokusov. Skúste to neskôr.');
