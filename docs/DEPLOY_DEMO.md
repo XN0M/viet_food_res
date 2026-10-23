@@ -1,6 +1,6 @@
 # Chuẩn bị demo công khai trên GitHub và Render
 
-Dự án chỉ triển khai khi chủ tài khoản xác nhận chi phí trong màn hình Render. `render.yaml` tạo một web service, một worker và một PostgreSQL ở Frankfurt; đây là ba tài nguyên có thể phát sinh phí. Tên miền riêng chưa cần: web sẽ có URL HTTPS `onrender.com`.
+Dự án chỉ triển khai khi chủ tài khoản xác nhận chi phí trong màn hình Render. `render.yaml` tạo một web service, một worker và một PostgreSQL ở Frankfurt. Theo [bảng giá Render](https://render.com/pricing) và [mã gói](https://render.com/docs/compute-plans) được xem ngày 23/10/2026, hai dịch vụ 512 MB khoảng 7 USD/tháng mỗi dịch vụ và PostgreSQL 256 MB khoảng 6 USD/tháng: tổng cơ bản khoảng **20 USD/tháng**, chưa tính băng thông, dung lượng tăng thêm hoặc gói workspace nếu có. Giá cuối cùng xem trong Render Dashboard trước khi tạo. Tên miền riêng chưa cần: web sẽ có URL HTTPS `onrender.com`.
 
 ## Trước khi kết nối
 
