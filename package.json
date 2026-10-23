@@ -15,7 +15,7 @@
     "menu:images:import": "tsx scripts/import-menu-images.ts",
     "test": "vitest run",
     "test:e2e": "playwright test",
-    "typecheck": "tsc --noEmit",
+    "typecheck": "next typegen && tsc --noEmit",
     "db:init": "tsx scripts/init.ts",
     "demo:bootstrap": "tsx scripts/bootstrap-demo.ts",
     "data:purge": "tsx scripts/purge.ts",
