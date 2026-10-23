@@ -95,7 +95,7 @@ Với PostgreSQL nhúng, `node scripts/verify-restore.mjs` chụp và restore đ
 
 ## Triển khai
 
-`render.yaml` mô tả web, worker và PostgreSQL cùng Frankfurt. Dockerfile sử dụng lockfile, chạy app bằng user không phải root. Chưa đăng ký/mua hoặc deploy tài khoản Render. Thiết lập `APP_URL`, `SESSION_SECRET`, SMTP và dữ liệu qua môi trường bảo mật. Chọn gói có backup đúng yêu cầu trước tạo dịch vụ. Kiểm tra `/api/health` bằng giám sát ngoài; worker quá 90 giây không heartbeat là bất thường.
+`render.yaml` mô tả web, worker và PostgreSQL cùng Frankfurt. Dockerfile sử dụng lockfile, chạy app bằng user không phải root. Chưa đăng ký/mua hoặc deploy tài khoản Render. Thiết lập `APP_URL`, `SESSION_SECRET`, SMTP và dữ liệu qua môi trường bảo mật. Chọn gói có backup đúng yêu cầu trước tạo dịch vụ. Kiểm tra `/api/health` bằng giám sát ngoài; worker quá 90 giây không heartbeat là bất thường. Nếu chỉ cần gửi link xem giao diện miễn phí, dùng [bản preview tĩnh](docs/STATIC_PREVIEW.md).
 
 Không copy `.env` local vào image. Chạy `prisma migrate deploy` trước release. Backup và thử restore trước migration ảnh hưởng dữ liệu. Rollback code không được tự rollback hoặc xóa đơn mới.
 

@@ -18,6 +18,8 @@
     "typecheck": "next typegen && tsc --noEmit",
     "db:init": "tsx scripts/init.ts",
     "demo:bootstrap": "tsx scripts/bootstrap-demo.ts",
+    "preview:export": "node scripts/export-ui-preview.mjs",
+    "preview:verify": "node scripts/verify-ui-preview.mjs",
     "data:purge": "tsx scripts/purge.ts",
     "local:db": "node scripts/local-db.mjs",
     "local:mail": "node scripts/dev-mail.mjs",
