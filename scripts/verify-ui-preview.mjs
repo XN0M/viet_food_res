@@ -2,7 +2,10 @@ import { chromium } from '@playwright/test';
 import { mkdir, readFile, readdir } from 'node:fs/promises';
 
 const url = process.env.PREVIEW_URL || 'http://127.0.0.1:4173';
-const browser = await chromium.launch({ headless: true });
+const browser = await chromium.launch({
+  headless: true,
+  channel: process.env.PREVIEW_BROWSER_CHANNEL || undefined,
+});
 try {
   await mkdir('.local/previews', { recursive: true });
   const expected = JSON.parse(await readFile('data/menu/dolny-stal.json', 'utf8')).filter(item => item.active).map(item => item.id);
