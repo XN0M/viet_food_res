@@ -53,7 +53,7 @@ async function snapshot(page, source, target, group = '', number = 1) {
       input.value = ''; input.setAttribute('readonly', '');
       input.setAttribute('placeholder', 'Vyhľadávanie je dostupné v plnej verzii');
     });
-    root.querySelectorAll('select').forEach(select => select.setAttribute('disabled', ''));
+    root.querySelectorAll('select:not(.vf-group-select)').forEach(select => select.setAttribute('disabled', ''));
     root.querySelectorAll('.vf-groups button').forEach((button, index) => button.dataset.previewGroup = String(index));
     const countText = document.querySelector('.vf-pagination')?.textContent || '';
     const pageCount = Number(countText.match(/\bz\s+(\d+)/)?.[1] || 1);
@@ -74,7 +74,10 @@ async function main() {
     await writeFile(path, (await readFile(path, 'utf8')).replace(/[ \t]+$/gm, ''), 'utf8');
   }
   await cp(resolve('public/menu'), join(output, 'assets/menu'), { recursive: true });
-  const browser = await chromium.launch({ headless: true });
+  const browser = await chromium.launch({
+    headless: true,
+    channel: process.env.PREVIEW_BROWSER_CHANNEL || undefined,
+  });
   try {
     const page = await browser.newPage({ viewport: { width: 1280, height: 900 } });
     await snapshot(page, '/', 'index.html');

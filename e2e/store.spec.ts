@@ -30,6 +30,24 @@ test('menu pagination, global search and clear keep browsing compact',async({pag
  await page.locator('.vf-menu-item .vf-row-detail').first().click();await expect(page.getByRole('dialog')).toContainText('Alergény');await page.screenshot({path:`.local/previews/redesign-detail-${info.project.name}.png`,animations:'disabled'});
  await page.keyboard.press('Escape');await expect(page.getByRole('dialog')).toHaveCount(0);await expect(page.locator('.vf-menu-item .vf-row-detail').first()).toBeFocused();
 });
+test('menu filters scroll away and mobile group selection keeps all groups reachable',async({page})=>{
+ await page.setViewportSize({width:390,height:900});
+ await page.goto('/menu?group=pho-rezance');
+ const groupSelect=page.getByRole('combobox',{name:'Skupina jedál'});
+ await expect(groupSelect).toBeVisible();
+ await groupSelect.selectOption('sushi');
+ await expect(page).toHaveURL(/group=sushi/);
+ await expect(page.locator('.vf-menu-item')).toHaveCount(12);
+ await expect(page.locator('.vf-menu-tools')).toHaveCSS('position','static');
+ await page.evaluate(()=>window.scrollTo(0,800));
+ await expect.poll(()=>page.locator('.vf-menu-tools').evaluate(el=>el.getBoundingClientRect().bottom)).toBeLessThan(0);
+ await page.setViewportSize({width:1280,height:900});
+ await page.evaluate(()=>window.scrollTo(0,0));
+ await expect(groupSelect).toBeHidden();
+ await page.locator('.vf-groups button').filter({hasText:'Nápoje'}).click();
+ await expect(page).toHaveURL(/group=napoje/);
+ expect(await page.locator('.vf-groups').evaluate(el=>el.scrollWidth<=el.clientWidth)).toBe(true);
+});
 test('unpictured dishes remain findable and image failure keeps item orderable',async({page})=>{
  const menu=await(await page.request.get('/api/menu')).json();const missing=menu.items.find((i:any)=>!i.image.startsWith('/menu/'));
  await page.goto('/menu?q='+encodeURIComponent(missing.name));await expect(page.locator('.vf-menu-item')).toHaveCount(1);await expect(page.locator('.vf-menu-item img')).toHaveCount(0);

@@ -16,6 +16,10 @@ function notice() {
 document.querySelectorAll('.vf-groups button').forEach((button, index) => {
   button.addEventListener('click', () => { location.href = `./${menuFile(groups[index])}`; });
 });
+document.querySelector('.vf-group-select')?.addEventListener('change', event => {
+  const selected = event.currentTarget.value;
+  if (groups.includes(selected)) location.href = `./${menuFile(selected)}`;
+});
 document.querySelectorAll('.vf-pagination button').forEach((button, index) => {
   button.addEventListener('click', () => {
     const next = index === 0 ? page - 1 : page + 1;

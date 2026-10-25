@@ -30,6 +30,8 @@ npm run preview:export
 python -m http.server 4173 --bind 127.0.0.1 --directory preview
 ```
 
-Trong terminal khác, kiểm tra `http://127.0.0.1:4173` và chạy `npm run preview:verify`; sau đó commit thư mục `preview/` và push. Render cập nhật Static Site khi có commit mới. `preview:verify` kiểm tra đủ món, ảnh/CSS, lỗi trình duyệt và bố cục ở desktop/mobile.
+Trong terminal khác, kiểm tra `http://127.0.0.1:4173` và chạy `npm run preview:verify`; sau đó commit thư mục `preview/` và push. Cloudflare Pages cập nhật bản xem trước khi có commit mới trên `main`. `preview:verify` kiểm tra đủ món, ảnh/CSS, lỗi trình duyệt và bố cục ở desktop/mobile. Nếu Playwright chưa có Chromium riêng trên máy Windows, đặt `$env:PREVIEW_BROWSER_CHANNEL='chrome'` trước lệnh export/verify để dùng Chrome đã cài.
+
+Khối lọc menu cuộn đi cùng trang; nhóm món hiển thị thành các nút xuống dòng trên desktop và bộ chọn trên điện thoại. Không có vùng trượt ngang. Trong bản tĩnh, bộ chọn nhóm hoạt động nhưng tìm kiếm, chọn danh mục con và đặt món vẫn chỉ là minh họa.
 
 Đây là bản chụp dữ liệu tại thời điểm xuất, không đồng bộ với database về sau. Giá, tình trạng món và nội dung pháp lý vẫn cần nhà hàng duyệt trước khi mở đặt món thật. Trước khi gửi chủ quán, nhắc rõ giỏ hàng, checkout, trạng thái đơn, email và admin chưa hoạt động trên link tĩnh.

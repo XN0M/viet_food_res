@@ -19,7 +19,7 @@ try {
   const headers = await readFile('preview/_headers', 'utf8');
   const policy = headers.match(/^  Content-Security-Policy: (.+)$/m)?.[1];
   if (!headers.includes('X-Robots-Tag: noindex') || !policy) throw new Error('Cloudflare Pages headers are missing');
-  for (const width of [390, 1280]) {
+  for (const width of [390, 768, 1280, 1440]) {
     const page = await browser.newPage({ viewport: { width, height: 900 }, deviceScaleFactor: 1 });
     const problems = [];
     page.on('pageerror', error => problems.push(error.message));
@@ -44,9 +44,18 @@ try {
       if (path === 'index.html' || path === 'menu.html') {
         await page.screenshot({ path: `.local/previews/static-${width}-${path}.png`, fullPage: true });
       }
+      if (path === 'menu.html') {
+        const position = await page.locator('.vf-menu-tools').evaluate(element => getComputedStyle(element).position);
+        if (position === 'sticky' || position === 'fixed') problems.push(`${width}px: menu filters still stay on screen`);
+        await page.evaluate(() => window.scrollTo(0, 800));
+        const filterBottom = await page.locator('.vf-menu-tools').evaluate(element => element.getBoundingClientRect().bottom);
+        if (filterBottom >= 0) problems.push(`${width}px: menu filters overlap dishes after scrolling`);
+        await page.screenshot({ path: `.local/previews/static-${width}-menu-scrolled.png` });
+      }
     }
     await page.goto(`${url}/menu.html`);
-    await page.locator('.vf-groups button').nth(4).click();
+    if (width <= 700) await page.locator('.vf-group-select').selectOption('sushi');
+    else await page.locator('.vf-groups button').nth(4).click();
     await page.waitForURL('**/menu-sushi.html');
     await page.locator('.vf-pagination button').last().click();
     await page.waitForURL('**/menu-sushi-2.html');
