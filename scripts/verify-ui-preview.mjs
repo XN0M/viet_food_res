@@ -13,6 +13,9 @@ try {
   }
   const missing = expected.filter(id => !ids.has(id));
   if (missing.length) throw new Error(`Static menu is missing ${missing.length} active items: ${missing.slice(0, 5).join(', ')}`);
+  const headers = await readFile('preview/_headers', 'utf8');
+  const policy = headers.match(/^  Content-Security-Policy: (.+)$/m)?.[1];
+  if (!headers.includes('X-Robots-Tag: noindex') || !policy) throw new Error('Cloudflare Pages headers are missing');
   for (const width of [390, 1280]) {
     const page = await browser.newPage({ viewport: { width, height: 900 }, deviceScaleFactor: 1 });
     const problems = [];
@@ -53,6 +56,21 @@ try {
     if (problems.length) throw new Error(problems.join('\n'));
     await page.close();
   }
+  const protectedPage = await browser.newPage();
+  const violations = [];
+  protectedPage.on('console', message => {
+    if (message.type() === 'error' && /content security policy/i.test(message.text())) violations.push(message.text());
+  });
+  await protectedPage.route('**/*', async route => {
+    if (route.request().resourceType() !== 'document') return route.continue();
+    const response = await route.fetch();
+    await route.fulfill({ response, headers: { ...response.headers(), 'content-security-policy': policy } });
+  });
+  await protectedPage.goto(`${url}/menu.html`);
+  await protectedPage.locator('.vf-groups button').nth(4).click();
+  await protectedPage.waitForURL('**/menu-sushi.html');
+  if (violations.length) throw new Error(`Cloudflare CSP blocked preview assets: ${violations.join('; ')}`);
+  await protectedPage.close();
   console.log(`Static preview: ${ids.size} menu items, desktop/mobile pages, assets and browser errors verified.`);
 } finally {
   await browser.close();

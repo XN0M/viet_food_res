@@ -94,6 +94,13 @@ async function main() {
     }
     await copyFile(resolve('scripts/ui-preview.js'), join(output, 'assets/preview.js'));
     await writeFile(join(output, '.nojekyll'), '');
+    await writeFile(join(output, '_headers'), `/*
+  X-Robots-Tag: noindex, nofollow
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: no-referrer
+  Content-Security-Policy: default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self'; font-src 'self'; connect-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'none'
+`);
     console.log(`Static Gemini UI preview exported: ${total} pages in ${output}`);
   } finally {
     await browser.close();
