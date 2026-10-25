@@ -42,6 +42,11 @@ try {
       if (!details.stylesheet) problems.push(`${width}px ${path}: missing stylesheet`);
       problems.push(...details.missingImages.map(image => `${width}px ${path}: image ${image}`));
       if (path === 'index.html' || path === 'menu.html') {
+        if (width <= 700) {
+          const selector = path === 'index.html' ? '.vf-gemini-card' : '.vf-menu-item';
+          const sameRow = await page.locator(selector).first().evaluate(element => element.getBoundingClientRect().y === element.nextElementSibling?.getBoundingClientRect().y);
+          if (!sameRow) problems.push(`${width}px ${path}: dishes are not in two columns`);
+        }
         await page.screenshot({ path: `.local/previews/static-${width}-${path}.png`, fullPage: true });
       }
       if (path === 'menu.html') {
